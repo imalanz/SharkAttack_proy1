@@ -1,0 +1,640 @@
+,Year,Type,Country,Area,Location,Activity,Name,Sex_,Age,Injury,Fatal_(y/n),Time,Months,Species,mating
+0,2018.0,Boating,USA,California,"Oceanside, San Diego County",Paddling,Julie Wolfe,F,57,"No injury to occupant, outrigger canoe and paddle damaged",N,18h00,Jun,whiteshark,False
+4,2018.0,Provoked,MEXICO,Colima,La Ticla,Free diving,Gustavo Ramos ,M,,Lacerations to leg & hand shark PROVOKED INCIDENT,N,,Jun,tigershark,False
+6,2018.0,Unprovoked,BRAZIL,Pernambuco,"Piedade Beach, Recife",Swimming,Jose Ernesto da Silva ,M,18,FATAL,Y,Late afternoon,Jun,tigershark,False
+8,2018.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Walking,Cody High,M,15,Lower left leg bitten,N,17h00,May,bullshark,True
+18,2018.0,Unprovoked,COSTA RICA,Cocos Island,Manuelita,Scuba diving,male,M,30,"No injury, shark bit scuba gear",N,10h40,Apr,tigershark,False
+22,2018.0,Unprovoked,AUSTRALIA,Western Australia,"South Point, Gracetown",Surfing,Nathan Burch,M,,"No injury, shark struck his leg",N,Afternoon,Apr,whiteshark,False
+23,2018.0,Unprovoked,MALDIVES,Alifu Alifu Atoll,Madoogali,Fishing,Ahmed Rasheed,M,32,5-inch cut to hand,N,21h50,Apr,tigershark,False
+24,2018.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Robberg Beach, Plettenberg Bay",Paddle-skiing,male,M,33,"No injury, shark bit hole in ski",N,09h40,Apr,whiteshark,False
+26,2018.0,Unprovoked,THAILAND,Hua Hin,Sai Noi Beach,Swimming,Werner Danielsen,M,54,Lacerations to foot and ankle,N,,Apr,bullshark,False
+30,2018.0,Unprovoked,BAHAMAS,New Providence,Nirvana Beach,Surfing,Bruce Rowan,M,,No Injury. Shark swam away with the surf board,N,09h30,Apr,tigershark,False
+33,2018.0,Unprovoked,BAHAMAS,,Bimini,Swimming,Shane McConnell,M,12,"2 puncture wounds to left foot, abrasion to right foot",N,18h00,Apr,bullshark,False
+34,2018.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,St. Francis Bay,Surfing,Ross Spowart,M,19,Lacerations to left knee & lower leg,N,15h00,Apr,whiteshark,False
+35,2018.0,Unprovoked,USA,Hawaii,Kukio Beach,Stand-Up Paddleboarding,male,M,25,Injuries to right leg & hand,N,09h30,Mar,tigershark,False
+36,2018.0,Unprovoked,AUSTRALIA,Western Australia,Waterman's Bay,Wading,Luke Guy & Finn Bald,M,10,Minor injuries to legs,N,17h35,Mar,wobbegongshark,False
+39,2018.0,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Durban,Scuba Diving,Elton Polly,M,38, The shark & man simply collided; neither were injured,N,,Feb,blacktipshark,True
+40,2018.0,Unprovoked,AUSTRALIA,New South Wales,"Little Congwong Beach, La Perouse ",Swimming,Anna Shurapey ,F,55,Laceratons to right leg & foot,N,"19h00, Dusk",Feb,whiteshark,False
+42,2018.0,Unprovoked,AUSTRALIA,New South Wales,"Surf Beach, Kiama",Walking,Adam Hoare,M,35,Puncture wounds to leff foot & lower leg,N,16h00,Feb,bullshark,False
+47,2018.0,Unprovoked,AUSTRALIA,Western Australia,Cone Bay,,male,M,18,Injuries to right leg,N,08h00,Jan,bullshark,False
+48,2018.0,Unprovoked,NEW CALEDONIA,,Nouville,Spearfishing,male,M,40s,Injuries to abdomen and arm,N,15h30,Jan,bullshark,False
+50,2018.0,Unprovoked,AUSTRALIA,New South Wales,Martin Islet,Free diving,Callum Stewart,M,28,"No injury, shark took his swimfin",N,,Jan,whiteshark,True
+53,2017.0,Unprovoked,USA,Hawaii,"Hultin's Beach, Oahu",Surfing,Marjorie Mariano,F,54,Severe lacerations to left thigh & knee,N,18h00,Dec,tigershark,False
+60,2017.0,Unprovoked,USA,California,"Stillwater Cove, Monterey County",Spearfishing,Grigor Azatian,M,25,Right leg bitten,N,13h45,Nov,whiteshark,True
+64,2017.0,Unprovoked,CUBA,Holquin Province,Guardalavaca Beach,Night bathing,Jesús Cabrera González ,M,22,FATAL,Y,23h30,Nov,tigershark,False
+66,2017.0,Unprovoked,AUSTRALIA,New South Wales,Birubi Point,Surfing,male,M,31,Minor injury to foot,N,09h00,Oct,wobbegongshark,True
+71,2017.0,Unprovoked,AUSTRALIA,South Australia,Normanville,Kayaking / Fishing,Sarah Williams,F,15,Minor injuries,N,Afternoon,Oct,whiteshark,False
+78,2017.0,Unprovoked,AUSTRALIA,Western Australia,Gracetown,Surfing,Catherine Vissers,M,,"No injury, board damaged by shark",N,18h00,Sep,whiteshark,False
+86,2017.0,Boating,AUSTRALIA,Westerm Australia,Esperance,Fishing,,,,"sharks rammed boats, no injury to occupants",N,,Sep,whiteshark,False
+89,2017.0,Unprovoked,AUSTRALIA,New South Wales,Iluka Beach,Surfing,Abe McGrath,M,35,Minor lacerations to right hip,N,06h00,Sep,whiteshark,False
+96,2017.0,Unprovoked,AUSTRALIA,Victoria,Cathedral Rock,Surfing,Marcel Brundler,M,37,"No injury, board bitten",N,10h30,Aug,whiteshark,False
+100,2017.0,Unprovoked,USA,Massachusetts,"Marconi Beach, Wellfleet, Barnstable County",SUP,Cleveland Bigelow,M,69,Not injured by shark but board bitten,N,10h00,Aug,whiteshark,False
+105,2017.0,Boating,USA,California,"Between Pescadero Point & Bean Hollow Beach, San Mateo County",Kayaking / Fishing,Patrick Conroy,M,,"No injury, bow of kayak bitten",N,10h45,Aug,whiteshark,False
+116,2017.0,Boating,USA,California,"Stearns Wharf, Santa Barbara",Kayaking,Bret Jackson,M,40,"No injury, kayak bitten",N,11h20,Jul,whiteshark,False
+117,2017.0,Unprovoked,USA,California,"Seal Rock, Goleta Beach, Santa Barbara",SUP,Rolf Geyling,M,50,"No injury, shark bit paddleboard",N,07h45,Jul,whiteshark,False
+118,2017.0,Unprovoked,USA,Washington,"South Beach, Westport, Grays Harbor County",Surfing,MK,M,,Pulled off board by shark but no injury,N,18h30,Jul,whiteshark,False
+120,2017.0,Boating,USA,California,"Santa Cruz, Santa Cruz County",Kayaking,Steve Lawson,M,,"No injury, kayak bitten",N,11h00,Jul,whiteshark,False
+121,2017.0,Unprovoked,USA,Florida,"Haulover Beach, Miami-Dade County",Swimming,Elvin Lanza,M,46,Lower legs bitten,N,15h30,Jul,bullshark,True
+123,2017.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Nahoon Reef, East London",Surfing,Zoe Stein,F,13,"No injury, shark bit surfboard",N,15h00,Jul,whiteshark,False
+128,2017.0,Unprovoked,USA,South Carolina,"Burkes Beach, Hilton Head, Beaufort County",Swimming,Regan Readnour,F,14,Leg bitten,N,,Jun,bullshark,True
+129,2017.0,Unprovoked,REUNION,,Roches Noire,Body boarding,Julien,M,34,"No injury, shark bit surfboard ",N,10h00,Jun,bullshark,True
+133,2017.0,Unprovoked,AUSTRALIA,Western Australia,"Point Casuarina, Bunbury",Body boarding,Paul Goff,M,48,"No injury, board bitten",N,08h30,Jun,whiteshark,False
+138,2017.0,Unprovoked,BAHAMAS,New Providence ,Athol Island,Snorkeling,Tiffany Johnson,F,32,Right forearm severed ,N,Shortly before 12h00,Jun,tigershark,False
+140,2017.0,Unprovoked,USA,Florida,Off Jupiter,Feeding sharks,Randy Jordan,M,,Lacerations to right arm,N,Morning,May,tigershark,False
+155,2017.0,Unprovoked,AUSTRALIA,Western Australia,Kelpies near Wylie Bay,Surfing,Laeticia Brouwer,F,17,FATAL,Y,16h00,Apr,whiteshark,False
+156,2017.0,Unprovoked,USA,Hawaii,"Kekaha Beach, Kauai",Surfing,Baboo,M,28,Lower right leg severely injured,N,09h00,Apr,tigershark,False
+166,2017.0,Unprovoked,USA,Florida,"Destin, Okaloosa County",Swimming,Caitlyn Taylor,F,17,Lacerations to thighs,N,15h00,Apr,bullshark,False
+169,2017.0,Boating,USA,California,Monterey Bay,Kayaking,Brian Correira,M,,"No injury, kayak bitten",N,14h30,Mar,whiteshark,False
+172,2017.0,Unprovoked,AUSTRALIA,Western Australia,Mauds Point,Snorkeling,female,F,,Hand bitten,N,Morning,Feb,bullshark,False
+178,2017.0,Boating,SOUTH AFRICA,KwaZulu-Natal,Eastmoor Crescent Beach,Kayak fishing,Murray Van Wyk,M,,"Shark damaged kayak, no injury to occupant",N,,Feb,tigershark,False
+183,2017.0,Unprovoked,AUSTRALIA,Queensland,"Boot Reef, Torres Strait",Scuba Diving,Craig de Wit,M,55,"Multiple injuries to arm, wrist and torso",N,12h00,Jan,bullshark,False
+186,2017.0,Unprovoked,INDONESIA,Bali,Balian Beach,Surfing,Daniel Moore,M,48,Injury to right wrist & forearm,N,07h30,Jan,bullshark,False
+187,,Invalid,AUSTRALIA,Queensland,,Spearfishing,Kerry Daniel,M,35,"No attack, shark made a threat display",,,Jan,bullshark,False
+192,2016.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Keurbooms Lagoon, Plettenberg Bay",Surf skiing ,Ben Swart,M,55,"No injury, but ski severely damaged",N,07h00,Dec,whiteshark,True
+196,2016.0,Provoked,AUSTRALIA,New South Wales,Merimbula,Surf fishing,Jesse Phillips,M,20,Lacerations to both hands while attempting to land a hooked shark PROVOKED INCIDENT,N,02h00,Dec,wobbegongshark,False
+197,2016.0,Unprovoked,AUSTRALIA,New South Wales,Booti Booti National Park,Surfing,Colin Rowland,M,65,Injuries to foot & arm,N,09h00,Dec,whiteshark,True
+199,2016.0,Unprovoked,USA,Hawaii,"Kamaole Beach Park I, Maui",Floating,Barbara Zawacki,F,58,Injuries to right calf and thigh,N,10h30,Nov,tigershark,False
+206,2016.0,Invalid,MEXICO,,Guadalupe Island,Cage Diving,Ming Chan,M,,"Shark breached cage, no injury to diver",,,Oct,whiteshark,False
+211,2016.0,Unprovoked,AUSTRALIA,New South Wales,"Lighthouse Beach, Ballina",Surfing,Cooper Allen,M,17,4 deep lacerations to thigh,N,9h00,Sep,whiteshark,False
+220,2016.0,Unprovoked,USA,Hawaii,"Makaha, Oahu",Swimming,Lulu Bagnol,F,51,Severe lacerations to shoulder & forearm,N,14h30,Sep,tigershark,True
+225,2016.0,Unprovoked,USA,California,"Refugio State Beach, Santa Barbara County",Spearfishing,Tyler McQuillen ,M,22,Two toes broken & lacerated,N,,Sep,whiteshark,False
+227,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Sam Cumiskey ,M,25,Lacerations to right foot,N,15h00,Aug,bullshark,False
+229,2016.0,Unprovoked,REUNION,,Boucan Canot,Surfing,Laurent Chardard ,M,20,"Right arm severed, ankle severely bitten ",N,17h00,Aug,bullshark,False
+232,2016.0,Unprovoked,USA,Hawaii,Maui,SUP Foil boarding,Connor Baxter,M,21,"No inury, shark & board collided",N,16h30,Aug,tigershark,True
+233,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nolan Tyler,M,22,Big toe bitten,N,,Aug,blacktipshark,False
+236,2016.0,Boating,AUSTRALIA,Western Australia,Near Albany,Kayaking,Ian Watkins,M,,"No injury, shark nudged kayak repeatedly",N,,Jul,whiteshark,False
+241,2016.0,Unprovoked,BAHAMAS,Abaco Islands,Green Turtle Cay,Spearfishing,Steve Cutbirth,M,,Lacerations to face and right leg,N,,Jul,bullshark,True
+243,2016.0,Boating,USA,Alabama,8 miles off Mobile,Fishing in Alabama Deep Fishing Rodeo,Occupant: Ben Raines,,,"No injury, shark bit trolling motor",N,,Jul,tigershark,False
+246,2016.0,Unprovoked,USA,California,"Surfside, Orange County",Kite surfing,Lee Frees,M,61,"No injury, board damaged",N,17h00,Jul,whiteshark,False
+250,2016.0,Boating,USA,California,"Capitola, Santa Cruz County",Fishing for squid,Mark Davis,M,,"No injury. Hull bitten, tooth fragment recovered",N,,Jul,whiteshark,False
+252,2016.0,Boating,USA,California,"Off Palos Verdes peninsula, Los Angeles County",Fishing for sharks,24' boat Shark Tagger Occupant Keith Poe,M,,"No injury. Hull bitten, tooth fragment recovered",N,,Jul,whiteshark,False
+258,2016.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Ryspunt,Spearfishing,Rene Nel,M,43,Injuries to left leg & right hand,N,,Jun,whiteshark,False
+271,2016.0,Unprovoked,AUSTRALIA,Western Australia,"Falcon Beach, Mandurah",Surfing,Ben Gerring,M,29,FATAL,Y,16h00,May,whiteshark,False
+275,2016.0,Unprovoked,USA,Florida,"St. Petersburg, Pinellas County",Swimming,Krystal Magee,F,22,Lacerations and puncture wounds to foot and ankle,N,18h00,May,bullshark,True
+277,2016.0,Unprovoked,USA,Florida,"Ponte Vedra, St. Johns County",Swimming,Mark Wilson,M,48,Ankle bitten,N,Morning ,May,blacktipshark,False
+281,2016.0,Unprovoked,INDONESIA,Bali,Balian,Surfing,Ryan Boarman,M,24,Elbow bitten,N,07h00,Apr,bullshark,False
+283,2016.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Robberg Beach, Plettenberg Bay",Surf-skiing,Dave Manson,M,,"No injury, surf-ski bitten",N,08h00,Apr,whiteshark,False
+284,2016.0,Unprovoked,AUSTRALIA,New South Wales,"First Sun Beach, Byron Bay",Swimming,Zak Kedem,M,12,Minor puncture wound to foot,N,12h00,Apr,wobbegongshark,False
+287,2016.0,Unprovoked,USA,Florida,"Off Singer Island, Palm Beach County",Spearfishing,Kyle Senkowicz,M,26,Multiple bites to right arm,N,,Apr,bullshark,False
+288,2016.0,Unprovoked,NEW CALEDONIA,Grand Terre,Poe Beach,Walking,Nicole Malignon,F,69,FATAL,Y,10h45,Apr,tigershark,False
+316,2016.0,Unprovoked,USA,Hawaii,"Wailea Beach, Maui",Paddle boarding,Matt Mason,M,48,No injury,N,Morning,Jan,tigershark,False
+317,2016.0,Unprovoked,AUSTRALIA,Queensland,"Happy Valley Beach, Caloundra",Surfing,Shane Hilder,M,,Laceration to right foot,N,,Jan,wobbegongshark,True
+318,2016.0,Unprovoked,AUSTRALIA,Queensland,Heron Island,Wading,Nicolas Davis,M,11,Laceration to right calf,N,Afternoon,Jan,blacktipshark,True
+320,2015.0,Boating,SOUTH AFRICA,KwaZulu-Natal,Westbrook Beach,Kayak Fishing,Occupant: Grant Wardell,M,,"No injury, kayak damaged",N,Morning,Dec,whiteshark,True
+324,2015.0,Unprovoked,BRAZIL,Pernambuco,Fernano de Noronha,Scuba diving,Márcio de Castro Palma ,M,32,Right hand & part of forearm removed,N,,Dec,tigershark,False
+326,2015.0,Boating,AUSTRALIA,New South Wales,Lake Macquarie,Fishing,6 m boat: occupants  Stephen & Andrew Crust,,,"No injury, shark rammed boat & bit motor",N,10h30,Dec,whiteshark,True
+327,2015.0,Unprovoked,BAHAMAS,,Off Andros Island,Lobster fishing,Richard Pinder,M,26,"Bitten on thigh, abdomen & hand",N,,Dec,bullshark,False
+332,2015.0,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,Allen Engelman,M,28,Lacerations to hand,N,,Nov,spinnershark,False
+333,2015.0,Unprovoked,AUSTRALIA,New South Wales,East Ballina,Surfing,Sam Morgan,M,20,Injury to left thigh,N,18h15,Nov,bullshark,False
+340,2015.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Stil Bay,Surfing,Stuart Anderson,M,42,"Lacerations to right calf, knee & hip",N,15h00,Oct,whiteshark,False
+342,2015.0,Unprovoked,USA,Florida,"Deerfield Beach, Broward County",Surfing,Peter Kirn,M,21,Left foot bitten,N,13h50,Oct,spinnershark,False
+345,2015.0,Unprovoked,USA,Hawaii,"Lanikai Beach, Kailua, Oahu",Swimming,Tony Lee,M,44,Severe injuries to lower legs. Foot later surgically amputated.,N,11h30,Oct,tigershark,True
+348,2015.0,Unprovoked,USA,Hawaii,"Leftovers, Oahu",Surfing,Colin Cook,M,25,"Left leg severed below the knee, defense injuries to left hand",N,10h25,Oct,tigershark,True
+353,2015.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Phillip Tarasovic,M,14,Severe lacerations to left hand,N,08h30,Oct,blacktipshark,False
+354,2015.0,Unprovoked,USA,Florida,"Vilano Beach, St.  Johns County",Surfing,"David Morrison, Jr.",M,22,"Laceration to heel, puncture wounds to dorsum of foot",N,16h20,Sep,blacktipshark,False
+356,2015.0,Boating,USA,California,"Horseshoe Rock, Santa Barbara County",Kayak fishing,Darren Kenney,M,,"No injury, kayak damaged",N,10h45-11h15,Sep,whiteshark,False
+358,2015.0,Unprovoked,USA,Hawaii,"Upolu Point, North Kohala, Big Island",Spearfishing, Braxton Rocha,M,27,Severe laceration to left leg,N,15h52,Sep,tigershark,True
+365,2015.0,Unprovoked,USA,California,"El Pescador Beach, Los Angeles County",Stand-Up Paddleboarding,Caterina Gennaro,F,50,"No injury, shark struck board, tossing her into the sea",N,17h30,Sep,whiteshark,False
+367,2015.0,Unprovoked,AUSTRALIA,New South Wales,Hallidays Point,Surf-skiing,David Quinliven,M,62,Inuries to lower left leg & ankle,N,11h30,Sep,whiteshark,False
+370,2015.0,Unprovoked,FIJI,,,Spearfishing,Viliame Lautiki,M,,Leg bitten,N,,Sep,tigershark,True
+371,2015.0,Unprovoked,USA,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,Elinor Dempsey,F,54,"No injury, surfboard bitten",N,10h25,Aug,whiteshark,False
+372,2015.0,Unprovoked,USA,California,"Morro Bay, San Luis Obispo County",Surfing,Daniel Phillips,M,21,"No injury, shark struk sufer's leg and his board",N,10h00,Aug,whiteshark,False
+377,2015.0,Boating,USA,California,Santa Barbara County,Kayak Fishing,Connor Lyon,M,22,"No injury, kayak bitten",N,07h30,Aug,whiteshark,False
+380,2015.0,Unprovoked,AUSTRALIA,New South Wales,Evans Head,Surfing,Craig Ison,M,52,"Lacerations and puncture wounds to hip, thigh, arm and hand",N,06h00,Jul,whiteshark,False
+385,2015.0,Unprovoked,AUSTRALIA,Tasmania,"Lachan Island, Mercury Passage",Scallop diving on hookah,Damien Johnson,M,46,FATAL,Y,10h00,Jul,whiteshark,False
+388,2015.0,Unprovoked,REUNION,,St. Leu,Surfing,Rodolphe Arriéguy,M,45,Arm bitten,N,,Jul,bullshark,True
+389,2015.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Jeffrey's Bay,Surfing,Mick Fanning,M,34,No injury,N,,Jul,whiteshark,False
+390,2015.0,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,Danny Miskin,M,38,"No injury, shark bumped & damaged board",N,08h45,Jul,whiteshark,False
+395,2015.0,Unprovoked,AUSTRALIA,New South Wales,Lennox Head,Surfing,Michael Hoile,M,52,"No injury, shark bit surfboard",N,09h00,Jul,whiteshark,False
+396,2015.0,Unprovoked,AUSTRALIA,New South Wales,East Ballina,Body boarding ,Matt Lee,M,32,Significant injuries to lower legs,N,09h00,Jul,whiteshark,False
+400,2015.0,Unprovoked,USA,North Carolina,"Rodanthe, Dare County",Swimming,John Cole,M,18,"Injuries to right calf, buttock and both hands",N,16h00,Jun,bullshark,True
+401,2015.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Buffels Bay near Knysna,Body Boarding,Caleb Swanepoel,M,19,"Right leg severed, multiple lacerations to left leg",N,14h40,Jun,whiteshark,False
+403,2015.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Lookout Beach, Plettenberg Bay",Surfing,Dylan Reddering,M,23,Multiple lacerations to torso & leg,N,16h00,Jun,whiteshark,False
+405,2015.0,Provoked,AUSTRALIA,Western Australia,Rottnest Island,Swimming,Stephen,M,19,Minor lacerations to forearm when he grabbed shark by its tail     PROVOKED INCIDENT,N,,Jun,wobbegongshark,False
+408,2015.0,Invalid,AUSTRALIA,Western Australia,Denmark,Surfing,Lily Kumpe,F,37,"Bruises and abrasions to face, chin, chest, both shins & feet and cut to right hand when her surfboard was struck with force",N,09h30,Jun,whiteshark,False
+412,2015.0,Unprovoked,USA,North Carolina,"Oak Island, Brunswick County",Wading,Hunter Treschel,M,16,Arm amputated below shoulder,N,17h51,Jun,bullshark,True
+413,2015.0,Unprovoked,USA,North Carolina,"Oak Island, Brunswick County",Wading,Kiersten Yow,F,12,Left arm amputated at elbow & severe injury to leg,N,16h12,Jun,bullshark,True
+416,2015.0,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Playing,Lucas Vertullo,M,11,Lacerations to right calf,N,10h50,Jun,bullshark,True
+418,2015.0,Unprovoked,REUNION,Le Port,Folette,Surfing,Eddy Chaussalet,M,47,Left forearm bitten,N,15h00,Jun,bullshark,True
+425,2015.0,Unprovoked,NEW CALEDONIA,,Kouare ,Snorkeling,Yves Berthelot,M,50,FATAL,Y,,May,bullshark,True
+427,2015.0,Unprovoked,AUSTRALIA,New South Wales,Saltwater Beach,Surfing,Bruce Lucas,M,,Injuries to left arm & right hand,N,15h00,May,whiteshark,False
+428,2015.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Diving,Mathieu Dasnois,M,29,"Injuries to leg, left arm & both hands",N,13h00,May,whiteshark,False
+431,2015.0,Unprovoked,AUSTRALIA,South Australia,Fishery Bay,Surfing,Chris Blowes ,M,26,Leg severed at mid-thigh,N,09h45,Apr,whiteshark,False
+432,2015.0,Unprovoked,AUSTRALIA,New South Wales,"Belongil Beach, Byron Bay",Surf skiing ,Woody Vidgens,M,71,"No injury, knocked off ski",N,11h00,Jun,whiteshark,False
+434,2015.0,Unprovoked,REUNION,Saint-Gilles-les-Bains,Cap Homard,Surfing,Elio Canestri,M,13,FATAL,Y,09h00,Apr,bullshark,False
+436,2015.0,Unprovoked,USA,Florida,"3 miles off Jupiter, Palm Beach County",Spearfishing,Rick Neumann,M,70,Injuries to head & torso,N,Afternoon,Apr,bullshark,False
+439,2015.0,Boating,SOUTH AFRICA,Eastern Cape Province,Yellow Sands Point,Kayak Fishing,Kayak: Occupant Kelly Janse van Rensburg,M,36,No injury but kayak bitten,N,,Mar,whiteshark,False
+442,2015.0,Unprovoked,FRENCH POLYNESIA,Bora Bora,Anau,Hand feeding sharks,male,M,9,Hand bitten,N,10h00,Mar,blacktipshark,False
+446,2015.0,Boating,ATLANTIC OCEAN,,,Transatlantic Rowing,"Avalon, a carbon kevlar monohull: 8 occupants",,,"No injury, shark bit rudder",N,,Feb,whiteshark,False
+447,2015.0,Unprovoked,REUNION,d’Étang-Salé,Ravine Mula,Swimming,Talon Bishop,F,22,FATAL,Y,18h30,Feb,tigershark,False
+451,2015.0,Boating,AUSTRALIA,Queensland,"Nerang River, Surfer's  Paradise",Rowing,Racing scull: Occupant Trevor Carter,M,57,"No injury, shark's teeth scratched hull",N,05h00,Jan,bullshark,False
+455,2015.0,Boating,USA,Florida,Off Panama City,Fishing,22-ft boat.  Occupant Captain Scott Fitzgerald,M,,No injury but shark bit trolling motor & rammed boat,N,,Jan,whiteshark,True
+464,2014.0,Unprovoked,AUSTRALIA,Western Australia,Three Stripes near Cheynes Beach,Spearfishing,Jay Muscat,M,17,FATAL,Y,Morning,Dec,whiteshark,True
+467,2014.0,Unprovoked,USA,California,"Montaña de Oro State Park, San Luis Obispo County ",Surfing,Kevin Swanson,M,50,Injury to hip/leg,N,11h30,Dec,whiteshark,True
+470,2014.0,Unprovoked,AUSTRALIA,Queensland,Rudder Reef,Spearfishing,Daniel Smith,M,17,FATAL,Y,11h30,Dec,tigershark,False
+474,2014.0,Boating,AUSTRALIA,Western Australia,Freo,Fishing,Boat: occupants: David Lock & his father,M,,"Shark chasing fish bumped boat, no injury to occupants",N,,Nov,whiteshark,True
+475,2014.0,Boating,USA,California,"Franklin Point, San Mateo County",,Boat: occupants: Matt Mitchell & 2 other people,,,"Shark bumped boat, no injury to occupants",N,,Nov,whiteshark,True
+480,2014.0,Unprovoked,USA,Hawaii,"North Kohala, Hawaii County",Surfing,McKenzie Clark,F,34,Lacerations to fingers,N,11h00,Oct,tigershark,True
+482,2014.0,Unprovoked,USA,Hawaii,"Kihei, Maui",Stand-Up Paddleboarding,Kim Lawrence,F,,"No injury, paddleboard bitten",N,10h00,Oct,tigershark,True
+487,2014.0,Unprovoked,USA,South Carolina,"Hilton Head Island, Beaufort County",Standing in inner tube,Kyra Bandy,F,7,Lacerations to left foot,N,,Oct,bullshark,False
+490,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kevin Ross,M,29,Foot bitten,N,11h30,Oct,blacktipshark,False
+492,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Hilton Mantooth,M,15,Foot bitten,N,11h00,Oct,blacktipshark,False
+493,2014.0,Boating,USA,California,Santa Barbara County,Kayaking,Ryan Howell,M,,"No injury to occupant, shark/s holded  kayak",N,14h00,Oct,whiteshark,False
+494,2014.0,Boating,USA,California,Santa Barbara County,Kayaking ,Raul Armenta ,M,,"No injury to occupant, shark/s holded  kayak",N,11h30,Oct,whiteshark,False
+498,2014.0,Unprovoked,FRENCH POLYNESIA,Moorea,Tiahura Lagoon,Feeding fish,female,F,36,Thumb & finger nipped,N,,Sep,blacktipshark,False
+501,2014.0,Unprovoked,USA,Alabama,"Katrina Cut, Dauphin Island, Mobile County",Fishing ,Jamie Robson,M,43,Leg bitten,N,13h00,Sep,bullshark,False
+502,2014.0,Boating,USA,Massachusetts,"Manomet Point, Plymouth, Plymouth County",Kayaking ,Ida Parker & Kristen Orr,F,20s,"No injury, shark bit kayak",N,18h00,Sep,whiteshark,False
+505,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body surfing,Alexandra Masterson,F,13,Injury to left calf,N,16h40,Aug,spinnershark,False
+512,2014.0,Provoked,USA,Florida,Apalachicola Bay ,Fishing for sharks,John Wiley,M,,Lacerations to forearm from hooked shark PROVOKED INCIDENT,N,,Aug,bullshark,False
+515,2014.0,Unprovoked,USA,Florida,"3 to 4 miles west of Indian Pass, Gulf County",Standing,Kyle Hayes,M,,Puncture wounds and lacerations to left thigh and knee,N,11h10,Aug,bullshark,False
+517,2014.0,Unprovoked,BAHAMAS,,,Spearfishing,Andrew Hindley,M,,Puncture wounds to right foot and ankle,N,,Aug,bullshark,False
+519,2014.0,Unprovoked,USA,Louisiana,"Lake Ponchartain off Southshore Harbor, New Orleans",Swimming,Trent Trentacosta,M,7,Minor lacerations to left heel and big toe,N,Afternoon,Aug,bullshark,False
+524,2014.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Muizenberg,Surfing,Matthew Smithers,M,20,Lower limbs & thigh bitten,N,14h00,Aug,whiteshark,False
+535,2014.0,Provoked,USA,California,"Manhattan Beach, Los Angeles County",Swimming,Steve Robles,M,,PROVOKED INCIDENT Torso bitten by shark hooked by an angler,N,09h30,Jul,whiteshark,False
+548,2014.0,Unprovoked,USA,Florida,Fort Lauderdale,Swimming,Jessica Vaughn,F,22,Laceration to right lower leg,N,13h30,Jun,bullshark,True
+551,2014.0,Unprovoked,AUSTRALIA,Queensland,Nerang River near Chevron Island,Fell into the water,Bianca Freeman,F,29,Lacerations to legs,N,,May,bullshark,True
+555,2014.0,Unprovoked,AUSTRALIA,South Australia,"Elliston, Eyre Peninsula",Surfing,Andrew McLeod,M,35,"No injury, but surfboard severely damaged",N,09h30,May,whiteshark,False
+565,2014.0,Boat,SOUTH AFRICA,,,Shark watching,Inflatable boat,,,"No injury to occupants, shark bit pontoon",N,,Apr,whiteshark,False
+569,2014.0,Unprovoked,AUSTRALIA,New South Wales,Tathra,Swimming,Christine Armstrong,F,63,FATAL,Y,08h20,Apr,whiteshark,False
+577,2014.0,Unprovoked,AUSTRALIA,New South Wales,Lighthouse Beach,Swimming,Mike Porter,M,,Minor lacerations to foot,N,18h00,Mar,wobbegongshark,False
+589,2014.0,Boating,NEW ZEALAND,,Stewart Island,Filming a documentary,Dinghy. Occupants: Jeff Kurr and Andy Casagrande,,,"No injury to occupants, shark nudged and bit boat",N,,NaN,whiteshark,False
+591,2013.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Die Platt,Surfing,Thomas Browne,M,19,Injuries to left thigh,N,08h45,Dec,whiteshark,True
+593,2013.0,Unprovoked,USA,Hawaii,"Ninole Bay, Hawaii County",Boogie boarding,male,M,29,Lacerations to right hand & knee,N,08h00,Dec,tigershark,False
+595,2013.0,Unprovoked,AUSTRALIA,New South Wales,"Shelly Beach, near Port Macquarie",Surfing,male,M,26,"Puncture wounds to hand, laceration to leg",N,18h15,Dec,wobbegongshark,False
+597,2013.0,Unprovoked,AUSTRALIA,New South Wales,"Riecks Point,  Campbell’s Beach, ",Body boarding,Zac Young,M,19,FATAL,Y,14h00,Nov,tigershark,False
+600,2013.0,Unprovoked,USA,Oregon,"Gleneden Beach, Lincoln County",Surfing,Andrew Gardiner,M,25,"No injury, board bitten",N,10h30,Nov,whiteshark,True
+605,2013.0,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui",Kiteboarding,Christian Brandon,M,46,Severe bite to right calf & anklel,N,15h19,Oct,tigershark,True
+609,2013.0,Unprovoked,AUSTRALIA,New South Wales,South Narrabeen Beach,Surfing,Anthony Joyce,M,41,Injuries to right foot,N,18h15,Oct,wobbegongshark,True
+611,2013.0,Unprovoked,USA,Hawaii,"Pila'a Beach, Kaua'i",Surfing,Jeff Horton,M,25,"No injury, shark bit surfboard",N,11h00,Oct,tigershark,True
+613,2013.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Albatros Point, near Jeffrey's Bay",Swimming / snorkeling,Burgert Van Der Westhuizen,M,74,FATAL,Y,11h30,Oct,whiteshark,False
+614,2013.0,Unprovoked,AUSTRALIA,Western Australia,"Off Poison Creek, Cape Arid",Diving for Abalone,Greg Pickering,M,55,"Injuries to torso, head and face",N,10h30,Oct,whiteshark,False
+615,2013.0,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Jay Scrivner,M,45,Laceration to thigh,N,08h45,Oct,whiteshark,False
+622,2013.0,Unprovoked,USA,Florida,"Casino Beach, Pensacola, Escambia County",Swimming,Trevor Kalck,M,21,Lacerations to right foot,N,15h30,Sep,bullshark,False
+631,2013.0,Unprovoked,BAHAMAS,,Freetown Beach,Spearfishing,Bryan Collins,M,,Lower left leg bitten,N,,Aug,blacktipshark,False
+638,2013.0,Unprovoked,USA,California,"Pillar Point, Half-Moon Bay, San Mateo County",Surfing,Wendi Zuccaro,F,,"No injury, shark bumped surfboard",N,12h40,Aug,whiteshark,False
+641,2013.0,Unprovoked,USA,South Carolina,Folly Beach,Surfing,Tyson Royston,M,10,"No injury, shark became entangled in his surfboard leash",N,17h30,Aug,bullshark,False
+642,2013.0,Unprovoked,SOUTH AFRICA,,,Attempting to free the shark,Tyler,M,,"Unknown, but survived",N,,Aug,blacktipshark,False
+643,2013.0,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Fishing,Christian Mercurio,M,17,Minor injury to foot & shin,N,15h00,Aug,bullshark,False
+648,2013.0,Unprovoked,USA,Hawaii,"White Plains Beach, Oahu",Surfing,Kiowa Gatewood,M,18,Lower leg bitten,N,14h10,Jul,tigershark,False
+661,2013.0,Boating,USA,California,"Pacific State , San Mateo County",Kayaking / Fishing,Micah Flanaburg,M,,"No injury, kayak scratched",N,15h30,Jun,whiteshark,False
+664,2013.0,Unprovoked,USA,Hawaii,Kona Coast State Park,Swimming,James Kerrigan,M,28,Right thigh & calf bitten,N,12h50,Jun,tigershark,False
+677,2013.0,Unprovoked,REUNION,Saint-Gilles,Brisant Beach,Body boarding,Stéphane Berhamel,M,36,FATAL,Y,08h20,May,bullshark,True
+680,2013.0,Unprovoked,MEXICO,Quintana Roo,"Seagull Beach, Cancun",Swimming,Isabella Carchia,F,34,Avulsion injury  to lower right leg,N,13h40,Apr,tigershark,False
+684,2013.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joshua White,M,21,Minor lacerations to right hand,N,13h30,Apr,bullshark,False
+696,2013.0,Unprovoked,JAMAICA,St. Catherine,Pillikin Red Light area ,Spearfishing,George Facey,M,68,FATAL,Y,09h00,Mar,tigershark,False
+700,2013.0,Unprovoked,NEW ZEALAND,North Island,Muriwai,Swimming,Adam Strange,M,46,FATAL,Y,13h24,Feb,whiteshark,False
+703,2013.0,Unprovoked,USA,Florida,"""Stuart Rocks"", Martin County",Surfing,Cole Taschman,M,16,Lacerations to right hand,N,14h00,Feb,blacktipshark,True
+706,2013.0,Boat,AUSTRALIA,Victoria,Cape Nelson,Fishing,"Occupants: Andrew & Ben Donegan & Joel Ryan, ",M,,"No injury to occupants, shark bit propeller",N,,Jan,whiteshark,True
+709,2013.0,Unprovoked,USA,Hawaii,Kiholo Bay,Surfing,Paul Santos,M,43,Left forearm bitten ,N,16h30,Jan,tigershark,False
+714,2012.0,Unprovoked,AUSTRALIA,New South Wales,"Kylie's Beach, Diamond Head",Paddle boarding,Luke Allan,M,29,Lacerations to thigh and hand,N,10h45,Dec,bullshark,False
+715,2012.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Swimming,Liya Sibili,M,20,FATAL,Y,,Dec,tigershark,False
+716,2012.0,Unprovoked,AUSTRALIA,Western Australia,Trigg Beach,Surfing,Richard Wands,M,32,No injury,N,0830,Dec,tigershark,False
+720,2012.0,Unprovoked,USA,Hawaii,"Kihei, Maui",Snorkeling,Thomas Floyd Kennedy ,M,61,Lacerations to thigh & lower left leg,N,09h40,Nov,tigershark,False
+724,2012.0,Unprovoked,USA,Hawaii,"Makena Landing, Maui",Diving,Mark Riglos,M,30,Right lower leg and foot bitten,N,08h30,Nov,tigershark,False
+725,2012.0,Unprovoked,USA,Hawaii,"Davidson's Surf Break, Kekaha, Kaua'i",Surfing,male,M,43,"No injury, surfboard bitten",N,08h10,Nov,tigershark,False
+726,2012.0,Unprovoked,USA,California,"Humboldt Bay, Eureka, Humboldt County",Surfing,Scott Stephens,M,25,Multiple lacerations to torso,N,12h00,Oct,whiteshark,False
+727,2012.0,Unprovoked,USA,Hawaii,"Makena Landing, Maui",Swimming,Mariko Haugen ,F,51,"Puncture wounds to thigh, defense wounds  to hand",N,15h56,Oct,tigershark,True
+728,2012.0,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,Francisco Javier Solorio Jr,M,39,FATAL,Y,11h00,Oct,whiteshark,False
+747,2012.0,Provoked,USA,Hawaii,"Spreckelsville, Maui",Spearfishing,M. Malabon,,,Minor laceration to hand  PROVOKED INCIDENT,N,12h00,Sep,tigershark,True
+755,2012.0,Unprovoked,REUNION,Saint Leu,,Surfing,Fabien Bujon,M,39,Right hand and foot severed,N,17h17,Aug,bullshark,False
+765,2012.0,Unprovoked,AUSTRALIA,Western Australia,Off Wedge Island,Surfing,Ben Linden,M,24,FATAL,Y,09h05,Jul,whiteshark,False
+784,2012.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,Jordon Garosalo,M,16,Laceration to right foot,N,13h20,Jun,blacktipshark,False
+787,2012.0,Unprovoked,AUSTRALIA,New South Wales,"Redhead Beach, Newcastle",Surf skiing ,Mark Ayre,M,30,"No injury, ski bitten",N,14h30,Jun,whiteshark,False
+791,2012.0,Unprovoked,MEXICO,Guerrero," Boca de la Leña, La Unión",Free diving / spearfishing,Benigno Medina Navarrete ,M,46,Left hand severed,N,09h00,May,bullshark,True
+793,2012.0,Boating,USA,Hawaii,"Iroquiois Point, Oahu",Kayak Fishing,Jerry Gallardo,M,,"No injury, teethmarks in kayak",N,Morning,May,tigershark,False
+795,2012.0,Boating,USA,California,"Leffingwell Landing, Cambria,  San Luis Obispo County",Kayaking / Fishing,Joey Nocchi,M,30,"No injury, kayaker fell in the water when kayak bitten by a shark",N,14h30,May,whiteshark,False
+797,2012.0,Unprovoked,USA,California,Off Catalina Island,Paddle boarding,Rose McKereghan,F,15,"No injury, shark bit paddleboard",N,07h20,May,whiteshark,False
+799,2012.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Caves near Kogel Bay,Body boarding,David Lilienfeld ,M,20,FATAL,Y,12h30,Apr,whiteshark,False
+800,2012.0,Boating,AUSTRALIA,South Australia,"Dolphin Bay, Innes National Park",Kayaking,Michael Demasi,M,27,Minor wound to his thigh when shark bit kayak,N,,Apr,whiteshark,False
+801,2012.0,Unprovoked,USA,Hawaii,"Leftovers near Chun's Reef, Oahu",Surfing,Joshua Holley,M,28,Lacerations to left foot,N,12h38,Apr,tigershark,False
+803,2012.0,Unprovoked,AUSTRALIA,Western Australia,Stratham Beach,Scuba diving,Peter Kurmann,M,33,FATAL,Y,09h30,Mar,whiteshark,False
+805,2012.0,Boating,AUSTRALIA,Western Australia,Kalbarri,Crayfishing,crayfish boat. Occupants: Dave & Mitchell Duperouzel: ,,,"No injury to occupants. Shark bit propelle, rope & crayfish float",N,05h50,Mar,whiteshark,False
+816,2012.0,Provoked,USA,Florida,"Palm Beach Inlet, Palm Beach County",Kite Surfing,Jason Lasser,M,,Laceration to right foot when he struck a shark PROVOKED INCIDENT,N,14h00,Feb,spinnershark,False
+818,2012.0,Boat,SOUTH AFRICA,Western Cape Province,Strandfontein,Fishing,8m inflatable boat. Occupants: Bhad Battle & Kevin Overmeyer,,,"No injury to occupants, boat damaged",N,,Feb,whiteshark,False
+821,2012.0,Unprovoked,AUSTRALIA,Western Australia,Coral Bay,Snorkeling,David Pickering,M,26,Lacerations to right forearm,N,Afternoon,Jan,tigershark,False
+822,2012.0,Unprovoked,BAHAMAS,,Cat Island,"Diving, photographing sharks",Russell Easton,M,,"No injury, shark grabbed his camera",N,,Jan,tigershark,False
+824,2012.0,Unprovoked,AUSTRALIA,New South Wales,Redhead Beach,Surfing,Glen Folkard,M,44,Lacerations to thigh,N,16h45,Jan,whiteshark,True
+826,2012.0,Unprovoked,USA,Oregon,"Lincoln City, Lincoln County",Surfing,Steve Harnack,M,53,"No injury, surfboard damaged",N,,Jan,whiteshark,True
+835,2011.0,Unprovoked,AUSTRALIA,New South Wales,Angourie,Surfing,Steve King,M,51,5 puncture wounds to thigh,N,05h45,Dec,whiteshark,True
+837,2011.0,Unprovoked,AUSTRALIA,New South Wales,Maroubra,Surfing,Ronald Mason,M,14,Minor injuries to left leg ,N,,Dec,wobbegongshark,False
+843,2011.0,Boating,USA,California,Pigeon Point,Kayaking,Harry Pali,M,,"No injury, kayak bitten",N,,Nov,whiteshark,True
+847,2011.0,Unprovoked,USA,California,"Marina State Beach, Monterey County",Surfing,Eric Tarantino,M,27,"Lacerations to right wrist, foream & neck",N,,Oct,whiteshark,False
+850,2011.0,Unprovoked,AUSTRALIA,Western Australia,Rottnest Island,Diving,George Wainwright,M,32,FATAL,Y,13h25,Oct,whiteshark,False
+851,2011.0,Unprovoked,USA,Oregon,"Newport, Lincoln County",Surfing,Bobby Gumm,M,41,"No injury, shark bit surfboard",N,,Oct,whiteshark,False
+861,2011.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Clovely Beach,Swimming,Michael Cohen,M,43,"Right leg severed, left leg lacerated",N,12h25,Sep,whiteshark,False
+862,2011.0,Unprovoked,USA,Florida,"Santa Maria Island, Manatee County",Spearfishing,C.J. Wickersham,M,21,Laceration to left thigh,N,15h00,Sep,bullshark,False
+869,2011.0,Unprovoked,PAPUA NEW GUINEA,Central Province,"Hula, near Port Moresby",Kite Surfing,Thomas Viot,M,30,Lacerations to right leg,N,Afternoon,Sep,tigershark,True
+871,2011.0,Unprovoked,AUSTRALIA,Western Australia, Bunker Bay,Body boarding,Kyle James Burden,M,21,FATAL,Y,13h26,Sep,whiteshark,False
+886,2011.0,Unprovoked,SEYCHELLES,Praslin,Anse Lazio ,Swimming or Snorkeling,Ian Martin Redmond,M,30,FATAL,Y,16h30,Aug,bullshark,False
+893,2011.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Cintza Beach, East London",Surfing,Denver Struwig,M,29,Upper left arm & right leg bitten,N,10h00,Jul,whiteshark,False
+905,2011.0,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Playing in the surf,Cassidy Cartwright ,F,10,Ankle bitten,N,Afternoon,Jun,bullshark,True
+912,2011.0,Unprovoked,USA,Florida,"Off Jupiter Inlet, Palm Beach County",Scuba diving,Daniel Webb,M,28,Lacerations to right calf,N,14h30,Jun,blacktipshark,False
+918,2011.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Robberg Beach,Surfing,Clinton Nelson,M,33,"No injury, board bumped by shark",N,,May,whiteshark,False
+919,2011.0,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Surfing,Theresa Fernandez,F,,"No injury, board bitten",N,13h15,May,tigershark,False
+920,2011.0,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Paddle boarding,Alaina DeBina,F,,"No injury, board bitten",N,12h00,May,tigershark,False
+923,2011.0,Unprovoked,NEW CALEDONIA,North Province,Kendec,Kite Boarding,Nathan ____,M,15,"Thigh bitten, FATAL",Y,11h00,May,tigershark,False
+928,2011.0,Unprovoked,USA,Florida,"Riviera Beach, Palm Beach County",Spearfishing,Anthony Segrich,M,32,Calf bitten,N,,Apr,bullshark,False
+932,2011.0,Unprovoked,INDONESIA,Bali,Balian,Surfing,Joe Ferrar,M,,Lacerations to forearm,N,Morning,Apr,bullshark,False
+935,2011.0,Unprovoked,MEXICO,Quintana Roo,"Gaviotas Beach, Cancun",Swimming,Liuba Taran,F,,Lower leg & foot bitten,N,,Mar,bullshark,False
+936,2011.0,Unprovoked,AUSTRALIA,New South Wales,Crowdy Head,Surfing,David Pearson,M,48,Severe injury to left forearm,N,17h45,Mar,bullshark,False
+942,2011.0,Provoked,AUSTRALIA,Queensland,Between ,Fishing,Shane Nyari,M,36,Lacerations to right hand by hooked shark PROVOKED INCIDENT,N,10h45,Feb,bullshark,False
+956,2011.0,Boat,AUSTRALIA,Western Australia,Busselton,Fishing,"A 'tinnie"". Occupants :Paul Sweeny, Paul Nieuwkerdk, John and Mark Kik ",,,"No injury, shark nudged boat and bit propeller",N,12h00,Jan,whiteshark,True
+971,2010.0,Boat,AUSTRALIA,Western Australia,Between Carnac and Garden Islands,Fishing,4-m runabout. Occupant: Allen Gade,M,,No injury to occupant. Shark rammed bottom of the boat,N,Night,Nov,whiteshark,True
+972,2010.0,Unprovoked,AUSTRALIA,Western Australia,Off Garden Island,Snorkeling,Elyse Frankcom,F,20,Torso and left buttock bitten,N,12h30,Oct,whiteshark,False
+978,2010.0,Unprovoked,USA,California,"Surf Beach, Vandenberg AFB, Santa Barbara County",Body boarding,Lucas Ransom,M,19,FATAL,Y,08h50,Oct,whiteshark,False
+980,2010.0,Unprovoked,AUSTRALIA,New South Wales,Mullaway Headland,Surfing,Ken Turk,M,22,Foot bitten,N,13h30,Oct,bullshark,False
+984,2010.0,Unprovoked,USA,Oregon,Winchester Bay,Surfing,David Lowden,M,29,"No injury, surfboard rammed",N,16h00,Sep,whiteshark,False
+986,2010.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Between Dyer Island and Pearly Beach,Swimming,Khanyisile Momoza  ,M,29,FATAL,Y,,Sep,whiteshark,False
+996,2010.0,Unprovoked,AUSTRALIA,Western Australia,Cowaramup Bay,Surfing,Nicholas Edwards,M,31,FATAL,Y,08h05,Aug,whiteshark,False
+997,2010.0,Boating,USA,California,"Pigeon Point, San Mateo County",Kayak Fishing,Adam Coca,M,45,"No injury, kayak bitten",N,,Aug,whiteshark,False
+1004,2010.0,Boating,USA,California,"Near oil rig Hondo, 5 nm from Gaviota, Santa Barbara County",Kayaking,Duane Strosaker,M,,"No injury, kayak bitten",N,12h40,Aug,whiteshark,False
+1018,2010.0,Unprovoked,USA,Texas,"Eight Mile Beach, Galveston",Surfing,Chad Rogers,M,20,Lacerations to right foot,N,,Jun,bullshark,True
+1040,2010.0,Unprovoked,AUSTRALIA,New South Wales,"Mona Vale Beach, Sydney",Surfing,Paul Welsh,M,46,"Minor injury, lacerations to left lower leg",N,08h00,Feb,wobbegongshark,True
+1042,2010.0,Unprovoked,AUSTRALIA,New South Wales,Turners' Beach,Body boarding,Dean Everson,M,18,"No injury, shark & board collided",N,15h30,Feb,whiteshark,False
+1043,2010.0,Provoked,USA,Florida,Riviera Beach,Surf fishing / wading,male,M,,Leg bitten while trying to free a hooked shark PROVOKED INCIDENT,N,15h00,Feb,spinnershark,False
+1051,2010.0,Unprovoked,SOUTH AFRICA,Western Province,Fish Hoek,Standing,Lloyd Skinner,M,37,FATAL,Y,15h15,Jan,whiteshark,True
+1062,2009.0,Unprovoked,AUSTRALIA,Queensland,Lamont Reef,Spearfishing,John Pengelly,M,18,Lacerations to hand & forearm,N,07h30,Dec,bullshark,False
+1065,2009.0,Unprovoked,NEW ZEALAND,South Island,Clark Island,Swimming to shore from capsized kayak,Maurice Bede Philips,M,24,FATAL,Y,,Dec,whiteshark,True
+1067,2009.0,Boating,AUSTRALIA,New South Wales,Hawks Nest Beach,Rowing,Surf boat with 5 lifesavers on board,,,No injury to occupants; shark bit steering oar,N,07h30,Dec,whiteshark,True
+1077,2009.0,Boating,AUSTRALIA,Victoria,Portland,Kayaking,Rhys Gadsden,M,27,"No injury, shark bit kayak",N,Morning,Oct,whiteshark,False
+1084,2009.0,Unprovoked,AUSTRALIA,Western Australia,,Diving,Matt Bowen,M,23,Severe lacerations to lower right leg,N,,Oct,bullshark,False
+1087,2009.0,Unprovoked,USA,Florida,"Key Colony Beach, Monroe County",Swimming,Daniel Callahan,M,,Laceration to right foot,N,17h30,Sep,bullshark,False
+1096,2009.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Glentana,Surfing,Gerhard van Zyl,M,25,FATAL,Y,15h30,Aug,whiteshark,False
+1097,2009.0,Unprovoked,USA,California,"Terramar Beach, Carlsbad, San Diego County",Swimming,Bethany Edmund,F,22,Puncture wounds to left foot & calf,N,16h30,Aug,whiteshark,False
+1098,2009.0,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Alkantstrand ,Body boarding,Jeandre Nagel,M,,"No injury, shark bit bodyboard",N,Lunchtime,Aug,whiteshark,False
+1100,2009.0,Unprovoked,USA,Hawaii,Kawa'a ,Surfing,Dylan Crawford,M,,"No injury, surfboard bitten",N,08h45,Aug,tigershark,True
+1102,2009.0,Unprovoked,BAHAMAS,Abaco Islands,Spanish Cay,Spearfishing,Derek Mitchell,M,14,Lacerations to calf,N,,NaN,bullshark,False
+1119,2009.0,Provoked,VIETNAM,,,Fishing for sharks,Tran Van Quy,M,,Hand bitten by hooked shark PROVOKED INCIDENT,N,,Jun,whiteshark,False
+1128,2009.0,Provoked,GUAM,North Region,Ritidian Point,Spearfishing,Jonathan Leon Guerrero,M,27,Speared shark bit his forearm PROVOKED INCIDENT,N,Afternoon,May,blacktipshark,False
+1156,2009.0,Unprovoked,AUSTRALIA,New South Wales,"Bondi Beach, Sydney",Surfing,Glen Orgias,M,33,Severe injury to hand ,N,19h30,Feb,whiteshark,False
+1157,2009.0,Unprovoked,AUSTRALIA,New South Wales,"Garden Point, Woolloomooloo Sydney Harbour","Diving, but on the surface when bitten by the shark",Paul Degelder,M,31,Severe injuries to right hand & right thigh. Right hand  surgically amputated & his right leg a week later,N,Before 07h00,Feb,bullshark,False
+1159,2009.0,Unprovoked,AUSTRALIA,New South Wales,Cellito Beach,Surfing,Durwin Keg,M,41,"No injury, surfboard dented",N,11h00,Feb,whiteshark,False
+1163,2009.0,Unprovoked,CUBA,Guantanamo Province,Guantanamo Bay,Spearfishing,John Emory,M,15,Severe lacerations to lower left leg,N,10h30,Jan,bullshark,False
+1166,2009.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Swimming,Sikhanyiso Bangilizwe,M,25,FATAL,Y,14h00,Jan,tigershark,False
+1168,2009.0,Boat,AUSTRALIA,Victoria,Off Tower Hill,Fishing,Occupants: Scott & John Fulton,M,,"No injury to occupants, shark bit propeller",N,09h20,Jan,whiteshark,True
+1172,2009.0,Unprovoked,AUSTRALIA,Tasmania,Binalong Bay,Surfing,Hannah Mighall,F,13,Severe lacerations to right leg,N,15h45,Jan,whiteshark,True
+1173,2009.0,Unprovoked,AUSTRALIA,New South Wales,Fingal Beach,Surfing,Jonathan Beard,M,31,Left thigh severely bitten,N,09h00,Jan,whiteshark,True
+1177,2009.0,Unprovoked,CUBA,Guantanamo Province,Guantanamo,Spearfishing,John,,,Lacerations to right calf,N,,Jan,bullshark,False
+1181,2008.0,Boating,AUSTRALIA,New South Wales,"Long Reef, north of Sydney",Kayaking,Steve Kulcsar,M,29,"No injury, shark struck kayak, catapulting him into the water",N,11h00,Dec,whiteshark,True
+1182,2008.0,Unprovoked,AUSTRALIA,Western Australia,Port Kennedy Beach,Snorkeling,Brian Guest,M,51,FATAL,Y,07h00,Dec,whiteshark,True
+1183,2008.0,Boating,USA,California,"Dillon Beach, Marin County",Kayaking,Tony Johnson,M,,"No injury, shark struck paddle",N,15h00,Dec,whiteshark,True
+1186,2008.0,Boating,AUSTRALIA,New South Wales,Mowarry Point,Fishing,"6 m Seaduce - Occupants: Allen Roberts, Jason Savage & Rob Lindsay.",,,Shark bit boats sea anchor,N,Morning,Dec,whiteshark,True
+1199,2008.0,Unprovoked,CROATIA," Split-Dalmatia Count,","Smokvina Bay, Vis Island",Spearfishing,Damjan Pecek ,M,43,Calf bitten,N,12h00,Oct,whiteshark,False
+1204,2008.0,Unprovoked,USA,Hawaii,"Ka'a'awa, Oahu",Surfing,Todd Murashige,M,40,Bitten on right thigh & calf,N,16h30,Sep,tigershark,True
+1205,2008.0,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,Kyle K.,M,,"No injury to surfer, board bitten",N,10h30,Sep,whiteshark,False
+1222,2008.0,Unprovoked,USA,Hawaii,"Ala Moana Beach Park, Oah'u",Diving,male,M,,"No injury, shark grabbed his bag of fish",N,14h00,Aug,tigershark,True
+1224,2008.0,Unprovoked,SOUTH AFRICA,,,,Michael Rutzen,M,,Lacerations to fingers,N,,Jul,whiteshark,False
+1241,2008.0,Unprovoked,BAHAMAS,Abaco Islands,,Spearfishing,Max Briggs,M,42,Lacerations to calf,N,11h00,Jun,bullshark,True
+1242,2008.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Mossel Bay,Surf skiing ,Kobus Maritz,M,46,"No injury, ski bitten",N,14h00,Jun,whiteshark,False
+1243,2008.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Struis Bay,Spearfishing (free diving),Kevin Macghie ,M,,No injury,N,,Jun,whiteshark,False
+1247,2008.0,Boating,USA,California,"West Cove, Catalina Island",Kayaking,Bettina Pereira,F,40," No injury. Shark bumped kayak, flinging her into the  water. ",N,09h00,Jun,whiteshark,False
+1253,2008.0,Unprovoked,BRAZIL,Pernambuco,"Piedade, Recife",Swimming,Wellington dos Santos ,M,14,"Hand severed, buttocks bitten",N,15h00,Jun,bullshark,True
+1259,2008.0,Unprovoked,AUSTRALIA,Western Australia,Albany,Swimming,Jason Cull,M,37,Severe lacerations to left leg,N,07h30,May,whiteshark,False
+1263,2008.0,Unprovoked,MEXICO,Guerro,Troncones Beach,Surfing,Adrian Ruiz,M,24,FATAL    Severe bite to right thigh,Y,Afternoon,Apr,tigershark,False
+1266,2008.0,Unprovoked,NEW CALEDONIA,North Province,Poindimié,Swimming,Olivier Vilain ,M,32,Lacerations to left foot,N,Morning,Apr,bullshark,False
+1268,2008.0,Unprovoked,USA,California,"Solana Beach, San Diego County",Swimming,Dave Martin,M,66,FATAL,Y,07h00,Apr,whiteshark,False
+1270,2008.0,Unprovoked,AUSTRALIA,New South Wales,Crescent Head,,Jamie Adlington,M,,,UNKNOWN,,Apr,tigershark,False
+1278,2008.0,Unprovoked,AUSTRALIA,New South Wales,"Lighthouse Beach, Ballina",Body boarding,Peter Edmonds,M,16,FATAL,Y,08h05,Apr,bullshark,False
+1286,2008.0,Unprovoked,USA,California," Huntington Beach, Orange County",Surfing,Thomas Larkin,M,27,"No injury to surfer, surfboard bitten by the shark",N,08h00,Mar,whiteshark,False
+1293,2008.0,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,"Suncoast Pirates Beach, Durban",Surf-skiing,Wayne Symington,M,42,"No injury to surf-skiier, shark holed ski",N,,Jan,blacktipshark,True
+1305,2007.0,Unprovoked,USA,Hawaii,"Waialua Bay, O'ahu",Surfing,Valentino Ramirez,M,52,"No injury, shark bit surfboard ",N,"""Just before 11h00""",Dec,tigershark,False
+1313,2007.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Bonza Bay,Surfing,Lee Mellin,M,37,Lacerations to thigh,N,08h45,Nov,whiteshark,True
+1315,2007.0,Unprovoked,USA,Hawaii,"Wailea, Maui",Floating,Aaron Finley,M,32,Lacerations to left lower leg,N,15h30,Oct,tigershark,True
+1316,2007.0,Unprovoked,AUSTRALIA,New South Wales,Byron Bay,Surf-skiing,Linda Whitehurst,F,52,small laceration to wrist,N,11h30,Oct,whiteshark,False
+1319,2007.0,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,E.H.,M,16,Severe lacerations to right hand,N,08h10,Oct,blacktipshark,False
+1322,2007.0,Unprovoked,NEW CALEDONIA,Loyalty Islands,"Bay of Luengoni, Lifou Island",Swimming,Stéphanie Belliard ,F,23,FATAL,Y,Early morning,Sep,tigershark,True
+1324,2007.0,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,Sue Snyder,F,,"No injury to surfer, surfboard bitten",N,08h15,Sep,whiteshark,False
+1338,2007.0,Unprovoked,USA,Hawaii,"Ka'a'awa, Oahu",Body boarding,Joshua Sumait,M,15,Laceration to right heel,N,16h30,Aug,tigershark,True
+1339,2007.0,Unprovoked,USA,California,"Marina State Beach, Monterey County",Surfing,Todd Endris,M,24,Lacerations to thigh & torso,N,10h45,Aug,whiteshark,False
+1355,2007.0,Unprovoked,USA,California,"Malibu, Los Angeles County",Surf paddling,Vic Calandra,M,,"No injury, surfboard bumped by shark for 20 minutes",N,,Jul,whiteshark,False
+1356,2007.0,Boating,USA,California,"Bean Hollow State Beach, San Mateo County",Kayak Fishing,Dan Prather,M,,"No injury, kayak bitten",N,10h15,Jul,whiteshark,False
+1363,2007.0,Unprovoked,BAHAMAS,Abaco Islands,Allan-Pensacola Cay,Spearfishing,Joanie Regan,F,48,"Lacerations to thumb, ring and pinky fingers of right hand ",N,11h00,Jul,bullshark,True
+1370,2007.0,Unprovoked,USA,Hawaii,"Silva's Channel, Mokuleia, O'ahu",Surfing,E. Yamada,M,,"No injury, board damaged",N,07h05,Jun,tigershark,False
+1380,2007.0,Unprovoked,SEYCHELLES,Bird Island,,Snorkeling,male,M,,No injury,N,,May,whiteshark,False
+1382,2007.0,Unprovoked,USA,Hawaii,"Keawakapu Beach, Maui",Snorkeling,Peller Marion,F,63,Right foot bitten,N,08h30,May,tigershark,False
+1389,2007.0,Boat,USA,Florida,"Florida Keys, Monroe County",Fishing,boat: 48' charter boat  GonFishin V ,,,"No injury to occupants, shark holed the transom-mounted livewell ",N,,Apr,bullshark,False
+1390,2007.0,Unprovoked,NEW CALEDONIA,South Province,Dumbéa,Surfing,Olivier Bertholom,M,26,Left foot bitten,N,16h00,Apr,tigershark,False
+1400,2007.0,Provoked,NEW ZEALAND,Cook islans,Penhryn Island,Spearfishing,Turua William Maretapu,M,16,Leg bitten  by shark after he shot at it & missed  PROVOKED INCIDENT,N,,Mar,tigershark,False
+1404,2007.0,Unprovoked,NEW CALEDONIA,North Province,Kaala-Gomen ,Spearfishing (free diving),Jesse Jizdny,M,30,Leg bitten,N,14h00,Jan,tigershark,False
+1406,2007.0,Unprovoked,AUSTRALIA,New South Wales,Cape Howe,Diving,Eric Nerhus,M,41,Head & torso bitten,N,10h30,Jan,whiteshark,True
+1408,2007.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Swimming / Body Surfing,Sibulele Masiza,M,24,"Presumed FATAL, body not recovered",Y,Afternoon,Jan,tigershark,False
+1414,2006.0,Unprovoked,USA,California,"Dillon Beach, Marin County",Surfing,Royce Fraley,M,43,"Minor injuries, surfboard bitten",N,11h50,Dec,whiteshark,True
+1416,2006.0,Unprovoked,AUSTRALIA,Western Australia,Wharton Beach,Body boarding,Zac Golebiowski,M,15,"Right leg severed, left leg lacerated",N,07h30,Dec,whiteshark,True
+1419,2006.0,Provoked,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Canoeing,Richard Tebutt,M,,Left arm lacerated when he grabbed shark by its tail PROVOKED INCIDENT,N,Afternoon,Nov,bullshark,False
+1420,2006.0,Unprovoked,USA,Oregon,"Siletz River mouth, Lincoln County",Surfing,Tony Perez,M,22,"No injury, surfboard bitten",N,Just before sundown,Oct,whiteshark,False
+1431,2006.0,Unprovoked,USA,Florida,"Singer Island, Riviera Beach",Swimming,William Carol,M,55,Minor injury to left hand,N,14h00,Sep,spinnershark,False
+1437,2006.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Noordhoek,Surfing,Steven Harcourt-Wood,M,37,"No injury, shark rammed surfboard",N,,Sep,whiteshark,False
+1446,2006.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Sunrise Beach, Muizenberg",Lifesaving drill,Achmat Hassiem,M,24,Foot severed,N,11h00,Aug,whiteshark,False
+1448,2006.0,Unprovoked,REUNION,,Le Port,Spearfishing,male,M,,Thigh bitten,N,,NaN,bullshark,False
+1453,2006.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Fish Hoek,Surf-skiing,Lyle Maarsdorp,M,19,"No injury, surf ski bitten",N,16h30,Jul,whiteshark,False
+1455,2006.0,Unprovoked,USA,Texas,"Sargent Beach, Matagorda County",Surf fishing,R.K. Halbert,M,,Right foot bitten,N,,Jul,bullshark,True
+1475,2006.0,Unprovoked,AUSTRALIA,South Australia,Waitpinga,Surfing,Peter Dunn,M,40,"No injury, knocked off surfboard",N,11h30,Jun,whiteshark,False
+1476,2006.0,Unprovoked,USA,Hawaii,O'ahu,Spearfishing,Ron Deguilmo,M,26,"4"" laceration to left forearm",N,13h30,May,tigershark,False
+1481,2006.0,Unprovoked,USA,Guam,Gun Beach,Scuba diving,Japanese female,F,30s,Laceration to leg,N,15h30,May,tigershark,False
+1484,2006.0,Provoked,AUSTRALIA,Queensland,"Moffat Beach, Caloundra",Snorkeling,male,M,46,Abrasion & 6 puncture wounds on chest after grabbing the shark by its tail PROVOKED INCIDENT,N,16h30,May,wobbegongshark,False
+1491,2006.0,Unprovoked,BRAZIL,Pernambuco,Piedade,Swimming,José Ivair Pereira,M,35,Left leg bitten,N,Afternoon,Apr,tigershark,False
+1494,2006.0,Unprovoked,USA,Hawaii,"Leftovers, near Waimea Bay, O'ahu",Surfing,Elizabeth Dunn,F,28,5 puncture wounds in left calf,N,11h30,Mar,tigershark,False
+1496,2006.0,Unprovoked,FIJI,Vitu Levu,Sigatoka,Surfing,Paul Sue,M,21,Lacerations to right hand,N,18h00,Mar,tigershark,False
+1502,2006.0,Boating,AUSTRALIA,South Australia,"Brighton Beach, Adelaide",Fishing,"Josh Francou, Michael Brister & Paul Bahr",M,,No injury to occupants; shark nudged the 5.3 m boat,N,12h00,Feb,whiteshark,False
+1504,2006.0,Unprovoked,TONGA,Vava'u,Tu’anuku,Swimming,Tessa Horan,F,24,Severe bite to right leg FATAL,Y,18h00,Feb,tigershark,False
+1510,2006.0,Unprovoked,AUSTRALIA,Western Australia,"Off City Beach, Perth",Scuba diving,Bernie  Williams,M,52,Lacerations to left elbow,N,11h00,Jan,whiteshark,True
+1512,2006.0,Unprovoked,AUSTRALIA,Queensland,"Amity Point, North Stradbroke Island",Swimming,Sarah Whiley,F,21,FATAL,Y,17h15,Jan,bullshark,False
+1515,2005.0,Unprovoked,USA,Oregon,"Tillamook Head, Clatsop County",Surfing,Brian Anderson,M,30,Lacerations to ankle & calf,N,12h00,Dec,whiteshark,True
+1516,2005.0,Unprovoked,USA,Hawaii,"Keawakapu Beach, Maui",Swimming,Jonathan Genant,M,29,Left hand bitten,N,11h45,Dec,tigershark,False
+1519,2005.0,Boat,AUSTRALIA,South Australia,"Middle Beach, 40 km north of Adelaide",Fishing,"5.4 m fibreglass boat, occupants: Robert & James Hogg",,,"No injury to occupants, hydrofoil of outboard motor bitten ",N,15h30,Dec,whiteshark,True
+1522,2005.0,Boat,AUSTRALIA,Victoria,"6 km off Collendina, south of Melbourne",Fishing,"4.5 m boat, occupant: Rodney Lawn",,,"No injury to occupant, shark bit outboard motor",N,,Nov,whiteshark,True
+1528,2005.0,Boat,NEW CALEDONIA,,,,3.8-m boat with 3 people on board,,,"No injury to occupants, shark lifted bow of boat 3 times",N,,Nov,whiteshark,True
+1532,2005.0,Unprovoked,USA,California,"Ocean Beach, San Francisco, San Francisco County",Surfing,Jake Daneman,M,26,"No injury, board bumped",N,07h15,Nov,whiteshark,True
+1536,2005.0,Unprovoked,USA,California,"Klamath River mouth, Del Norte County",Surfing,Chad Reiker,M,36,No injury,N,11h00,Oct,whiteshark,False
+1537,2005.0,Unprovoked,USA,California,"Salmon Beach, Sonoma County",Surfing,Megan Halavais,F,20,Leg bitten,N,10h30,Oct,whiteshark,False
+1543,2005.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Sunny Cove, Fish Hoek",Surf-skiing,Trevor Wright,M,52,"No injury, shark bit ski",N,15h00,Oct,whiteshark,False
+1544,2005.0,Unprovoked,AUSTRALIA,New South Wales,Arakoon's Little Bay,Surfing,Wal Lewis,M,28,"No injury, knocked off board",N,,Sep,tigershark,True
+1545,2005.0,Unprovoked,AUSTRALIA,South Australia,Kangaroo Island,Surfing,Josh Berris,M,26,Lacerations to legs,N,12h05,Sep,whiteshark,False
+1551,2005.0,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Wading,Elizabeth Gardner,F,18,Calf severely lacerated,N,15h20,Sep,bullshark,False
+1555,2005.0,Unprovoked,AUSTRALIA,South Australia,Glenelg ,Scuba diving,Jarrod Stehbens,M,23,FATAL,Y,16h10,Aug,whiteshark,False
+1556,2005.0,Unprovoked,USA,California,"Scripps, LaJolla, San Diego County",Surfing,Tony Simmonson,M,37,Lower right leg lacerated,N,11h00,Aug,whiteshark,False
+1573,2005.0,Unprovoked,USA,Florida,"Cape San Blas, Gulf County",Fishing,Craig Adam Hutto,M,16,"Leg severely bitten, surgically amputated",N,11h30,Jun,bullshark,True
+1582,2005.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Miller's Point,Spearfishing (Free diving),Henri Murray,M,22,FATAL,Y,15h45,Jun,whiteshark,False
+1587,2005.0,Unprovoked,AUSTRALIA,Queensland,50 km east of Townsville,Spearfishing,Ben Edelstein,M ,,Severe injury to lower leg,N,,May,blacktipshark,False
+1588,2005.0,Boating,USA,Hawaii,"North Kihei, Maui",Kayaking,J. Bailey,,,"No injury, shark bit kayak",N,11h00,May,tigershark,False
+1609,2005.0,Unprovoked,AUSTRALIA,Queensland,Brisbane River,Swimming,Nathan Shaxson,M,18,Finger bitten,N,,Feb,bullshark,False
+1617,2005.0,Boating,NEW ZEALAND,North Island,Taupiri Bay,Fishing from a kayak,Paul Morris,M,39,"No injury, kayak bumped repeatedly",N,12h00,Jan,whiteshark,True
+1620,2004.0,Unprovoked,AUSTRALIA,Queensland,Opal Reef,Spearfishing,Mark Thompson,M,38,"FATAL, leg bitten",Y,13h00,Dec,bullshark,False
+1638,2004.0,Unprovoked,USA,Oregon,Gold  Beach,Surfing,Seth Mead,M,26,Leg bitten,N,09h00,Sep,whiteshark,False
+1643,2004.0,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Bathing,Wagner da Silva,M,24,Calf bitten & both hands injured,N,13h00,Aug,tigershark,True
+1650,2004.0,Unprovoked,RUSSIA,Kuril Islands in the Pacific,"Kunashir Island, 70 km from northern Japan",Diving & fishing with net,Vladimir Skutelnik,M,,Thigh & calf bitten,N,,Jul,whiteshark,False
+1654,2004.0,Unprovoked,USA,Texas,"Bryan Beach, Brazoria County",Wading / fishing & carrying a bag of fish,Aaron Perez,M,11,Right forearm nearly severed and bites above & below the right knee,N,19h30,Jul,bullshark,True
+1660,2004.0,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Kelly French,M,45,"No injury, shark struck his board",N,09h00,Jun,whiteshark,False
+1665,2004.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Dyer Island,"Swimming, poaching perlemoen",Nkosinathi Mayaba,M,21,"FATAL, leg severed ",Y,15h00,Jun,whiteshark,False
+1667,2004.0,Unprovoked,BRAZIL,Pernambuco,Piedade Beach,Swimming,Walmir Pereira da Silva,M,17,"Left hand, foot severed &  left calf & arm bitten",N,14h30,May,bullshark,True
+1680,2004.0,Unprovoked,USA,Hawaii,"Kahana Beach, Maui",Surfing,Willis McInnis,M,57,FATAL Severe wound to right thigh & calf,Y,07h08,Apr,tigershark,False
+1685,2004.0,Unprovoked,BRAZIL,Pernambuco,Piedade Beach,Body boarding,Alcindo de Souza Leão Júnior,M,22,"Lower left leg bitten, surgically amputated",N,07h30,Mar,bullshark,False
+1686,2004.0,Unprovoked,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",Surfing,male,M,,Heel bitten,N,15h00,Mar,bullshark,False
+1722,2003.0,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Karridene,Surf skiing,2 people on ski,,,"No injury to occupants, hull of ski bitten",N,,Nov,whiteshark,True
+1727,2003.0,Unprovoked,USA,Hawaii,"Tunnels surf break off Makua Beach, Kaua'i",Surfing,Bethany Hamilton,F,13,Left arm severed below shoulder,N,07h30,Oct,tigershark,True
+1747,2003.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Near the wreck of the Kakapo off Noordhoek Beach,Body boarding,David Bornman,M,19,"FATAL, left thigh, buttocks, back of spine, abdomen & chest bitten  ",Y,14h30,Sep,whiteshark,False
+1777,2003.0,Unprovoked,PHILIPPINES,Baatan,Limay,,a resident of Barangay Luz,,,Arm severed,N,,May,whiteshark,False
+1780,2003.0,Unprovoked,BRAZIL,Pernambuco,"Pau Amarelo Beach, Paulista District (17 km from Recife)",Surfing,Tiago Augusto da Silva Machado,M,17,"Hand & foot lacerated,  lower left leg severely bitten, necessitating surgical amputation",N,17h00,Apr,bullshark,False
+1800,2003.0,Unprovoked,COSTA RICA,North Pacific coast,Playa Tamarindo ,Surfing,Ross Menking,M,,Lower right leg lacerated,N,,Jan,bullshark,False
+1804,2002.0,Unprovoked,AUSTRALIA,Queensland,Depth of 40 m on the wreck of the St. Paul off Brisbane,Scuba diving,Jai Hennessey,M,26,Groin bitten,N,,Dec,wobbegongshark,False
+1806,2002.0,Unprovoked,AUSTRALIA,Queensland,Miami Lake,Swimming,Beau Martin,M,23,FATAL,Y,02h30,Dec,bullshark,False
+1808,2002.0,Unprovoked,MICRONESIA,Caroline Islands,"Pision Reef, Truk",Scuba diving,Kevin --,M,,Minor injury to right calf,N,Afternoon,Nov,blacktipshark,True
+1830,2002.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Glencairn, False Bay",Surf skiing,Paul Mauger (or Major),M,47,No injury,N,16h00,Sep,whiteshark,False
+1858,2002.0,Provoked,USA,Florida,"a pier at the end of Caxambas Drive, Marco Island ","Fishing, removing the shark from his line",male,M,55,Leg bitten by hooked shark PROVOKED INCIDENT,N,17h15,May,blacktipshark,False
+1873,2002.0,Unprovoked,USA,Hawaii,"Brenecke Beach, Po'ipu, Kaua'i",Body-boarding,Hoku Aki,M,17,Left leg severed below knee,N,12h00,Mar,tigershark,False
+1878,2002.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,31,Several  puncture wounds on lower right leg,N,10h55,Mar,spinnershark,False
+1910,2001.0,Unprovoked,USA,Virginia,"Sandbridge Beach, Princess Anne County",Swimming ,David Peltier,M,10,"FATAL, thigh bitten ",Y,18h00,Sep,bullshark,False
+1923,2001.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Dylan Feindt,M,19,Left ankle bitten,N,10h00,Aug,blacktipshark,False
+1965,2001.0,Provoked,AUSTRALIA,New South Wales,Bronte Beach,Snorkeling,Andranik Markossian,M,,Wrist lacerated PROVOKED INCIDENT,N,,Apr,wobbegongshark,False
+1973,2001.0,Sea Disaster,CARIBBEAN SEA,,Between St. Maarten & Anguilla,Sinking of the 40' Esperanza off St. Maartin with 36 refugees on board,Unknown,,,"Human remains recovered in shark caught off Anguilla, probable scavenging on drowned body",Y,,Mar,tigershark,False
+1981,2001.0,Boating,NEW ZEALAND,North Island,Sandy Bay/Whananaki,Kayaking,Dr. Michael Hogan ,M,,"No injury, kayak bitten",N,,Jan,whiteshark,True
+1988,2000.0,Unprovoked,AUSTRALIA,Queensland,Orpheus Island,Diving (shell maintenance),George Lyons,M,28,"No injury, wetsuit & swimfin torn",N,,Nov,tigershark,False
+1995,2000.0,Boat,AUSTRALIA,Queensland,Peel Island,Fishing ,"boat, occupant: Paul Kelly",,31,"No Injury to occupant, shark holed and sank boat",N,22h00,Oct,whiteshark,False
+2000,2000.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Austin White,M,23,Fingers lacerated,N,14h30,Oct,blacktipshark,False
+2004,2000.0,Unprovoked,AUSTRALIA,South Australia,"Black Point, Eyre Peninsula",Surfing,Jevan Wright,M,17,FATAL,Y,13h00,Sep,whiteshark,False
+2007,2000.0,Unprovoked,OKINAWA,Miyako Island,Sunayama Beach,Surfing,Takayuki Miura,M,31, FATAL,Y,17h00,Sep,whiteshark,False
+2051,2000.0,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Swimming ,Chuck Anderson,M,44,Right forearm severed surgically amputated above elbow,N,06h45,Jun,bullshark,True
+2072,2000.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Struis Bay,Body surfing,Dr. Weich,M,,Foot bitten,N,14h00,Feb,whiteshark,False
+2088,1999.0,Unprovoked,USA,California,"Waddell Reef, Santa Cruz County",Surfing (sitting on his board),Jack Wolf,M,,"No injury, board bitten",N,,Nov,whiteshark,True
+2099,1999.0,Unprovoked,USA,California,"North of Pidgeon Point, San Mateo County",Kayaking,Tod Wallersheim,M,37,"No injury, but kayak scraped & dented",N,18h30,Sep,whiteshark,False
+2115,1999.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Buffels Bay (near Knysna),Boogie boarding,Hercules Pretorius,M,14,FATAL,Y,11h15,Jul,whiteshark,False
+2137,1999.0,Unprovoked,USA,Florida,"Hobe Sound, Martin County",Surfing,Kenny Burns,M,25,Left hand bitten,N,15h30,Feb,spinnershark,False
+2138,1999.0,Unprovoked,MAURITIUS,,Belle-Mare,Spearfishing,Rajkumar Mansaram,M,47,Legs & torso injured,N,,Jan,bullshark,False
+2142,1999.0,Unprovoked,REUNION,Saint-Leu,Pointe au Sel,Spearfishing,,,,FATAL,Y,,Jan,bullshark,False
+2150,1998.0,Unprovoked,USA,Florida,"Ocean Beach, Jaycee Park, Vero Beach, Indian River County",Swimming,James Willie Tellasmon,M,9,FATAL,Y,14h00,Nov,tigershark,False
+2182,1998.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Gonubie, 13 km northeast of East London",Body Boarding,Anton deVos,M,20,"FATAL, hands & calf bitten  ",Y,09h55,Jun,whiteshark,False
+2199,1998.0,Unprovoked,USA,Florida,"Loggerhead Park, Juno Beach, Palm Beach County",Swimming or paddle boarding,Rick Welch,M,32,6 puncture wounds to right calf,N,Morning,Mar,spinnershark,False
+2200,1998.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Swimming,Gordon Wilson,M,,Hands bitten,N,09h35,Feb,spinnershark,False
+2210,1997.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Pringle Bay, 44 miles southeast of Cape Town",Spearfishing,Ian James Hill,M,39,FATAL,Y,14h00,Dec,whiteshark,True
+2214,1997.0,Unprovoked,AUSTRALIA,Western Australia,Albany,Scuba diving (submerged riding a scooter),Kevin Hulkes,M,42,Left arm lacerated when shark grabbed scooter,N,Morning,Nov,whiteshark,True
+2242,1997.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Breezy Point, Ntlonyana",Surfing,Mark Penches,M,25,FATAL,Y,12h45,Jul,whiteshark,False
+2244,1997.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Standing,Flint Cowden,M,50,Left calf bitten,N,Night,Jul,blacktipshark,False
+2245,1997.0,Unprovoked,OKINAWA,Miyako,Hirara,Fishing for octopus,Shizuo Nakachi,M,55,"FATAL, legs severed  ",Y,,Jul,whiteshark,False
+2257,1997.0,Unprovoked,BRAZIL,Rio de Janeiro,"Manguinhos, Ilha Feia, Búzios",Windsurfing,João Pedro Portinari Leão,M,22,Lower left leg & ankle bitten,N,,Apr,whiteshark,False
+2259,1997.0,Unprovoked,AUSTRALIA,Queensland,Whitsunday Passage,Scuba diving,Gerald Rauch,M, 30,Left arm bitten,N,Midday,Feb,tigershark,False
+2265,1997.0,Unprovoked,REUNION,,la Pointe-au-Sel,Spearfishing,David Lonne,M,,FATAL,Y,,Jan,bullshark,False
+2266,1997.0,Boat,AUSTRALIA,Victoria,"Seal Rocks, Phillip Island",Watching seals,"Inflatable dinghy, occupants: Jasmine Wigley, Greg Wilkie, Phil Rourke & Fleur Anderson",,,"No injury to occupants, shark bit 2 of the dinghy's 3 floation chambers",N,,Jan,whiteshark,True
+2268,1996.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Duck Pond, Sardina Bay near Port Elizabeth",Surfing,Steven Cross,M,,Elbow bitten,N,16h15,Dec,whiteshark,True
+2281,1996.0,Unprovoked,NEW ZEALAND,Chatham Islands ,Waihere Bay,Diving for abalone,Vaughn Hill,M,23,"Back, arms & wrist severely lacerated",N,10h00,Sep,whiteshark,False
+2286,1996.0,Provoked,SOUTH AFRICA,KwaZulu-Natal,Hibberdene,Spearfishing,Gyula Plaganyi,M,29,No injury  PROVOKED INCIDENT,N,07h19,Sep,whiteshark,False
+2300,1996.0,Unprovoked,AUSTRALIA,Victoria,"Suicide Point, Point Leo",Surfing,George Lucas,M,,"No injury, board bitten",N,17h30,Jun,whiteshark,False
+2308,1996.0,Unprovoked,AUSTRALIA,New South Wales,Mona Vale,Swimming,Luke Baker,M,11,Puncture wounds on upper left thigh ,N,,Apr,wobbegongshark,False
+2309,1996.0,Unprovoked,AUSTRALIA,New South Wales,Mona Vale,Swimming,Aya Hamaea ,F,16,Puncture wounds on leg ,N,,Apr,wobbegongshark,False
+2311,1996.0,Unprovoked,AUSTRALIA,Queensland,Heron Island,Swimming breast stoke,Jean Hotchkiss ,F,47,Left arm & leg lacerated,N,07h00,Mar,tigershark,False
+2327,1996.0,Unprovoked,USA,North Carolina,,Surfing,male,M,,Survived,N,,NaN,tigershark,False
+2344,1995.0,Unprovoked,AUSTRALIA,Western Australia,"Honeymoon Island, near Hopetown",Abalone diving using Hookah (near calving whales),David Alan Weir,M,29,"FATAL, head, shoulder and arm severed, remains recovered at Munglinup Beach on 9/13/1995",Y,15h00,Sep,whiteshark,False
+2360,1995.0,Unprovoked,USA,South Carolina,"Ocean Lakes Campground, south of Myrtle Beach, Horry County","""Riding waves on a board""",Venus  Lindsey ,F,14,Left foot bitten,N,,Aug,blacktipshark,False
+2374,1995.0,Provoked,USA,Mississippi,"Cat Island, Harrison County",Fishing,Cheryl Lowman,F,32,Minor laceration to leg from a hooked shark PROVOKED INCIDENT,N,,Jul,blacktipshark,False
+2392,1995.0,Unprovoked,AUSTRALIA,New South Wales,"Honeysuckle Point, Eden",Diving,David Malone,M,,"No injury, shark took swimfin",N,,Apr,wobbegongshark,False
+2443,1994.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Arniston,Spearfishing,Charles De Wet Reis,M,,FATAL  ,Y,,Apr,whiteshark,False
+2454,1994.0,Unprovoked,USA,Hawaii,"Velzyland, north shore of O'ahu",Surfing,Jim Broach,M,,FATAL,Y,,Jan,tigershark,False
+2456,1994.0,Boat,AUSTRALIA,Western Australia,Albany,Fishing,"5 m aluminum boat, occupants: Ben Turnbull, Lia & Neville Parker",,,"No injury to occupants, shark bit anchor and ladder",N,07h30,Jan,whiteshark,True
+2469,1993.0,Unprovoked,USA,Hawaii,"Mouth of Wallua River, Kaua'i",Surfing,,,,Serious leg wounds,N,,Oct,tigershark,True
+2481,1993.0,Unprovoked,USA,North Carolina,Pamlico Sound,Riding floatation device,Petra Rijoes,F,19,Severe lacerations to abdomen & thighs,N,10h00,Aug,bullshark,False
+2504,1993.0,Unprovoked,USA,California,"Linda Mar Beach, Pedro Point, San Mateo County",Free diving & spearfishing (ascending),Don Berry,M,55,"No injury, swim fin bitten",N,14h30,Mar,whiteshark,False
+2520,1992.0,Unprovoked,USA,Florida,"Brevard County, a mile north of Sebastian Inlet",Surfing,Matthew Robertson Paul,M,19,Forearm  & hand bitten; tooth fragments of the shark were recovered from the surfer's hand,N,07h30,Nov,blacktipshark,True
+2522,1992.0,Boating,USA,California,"Ano Nuevo, San Mateo County",Kayaking,Ken Kelton,M,46,"No injury, kayak bitten",N,12h50,Nov,whiteshark,True
+2531,1992.0,Unprovoked,AUSTRALIA,Queensland,"North Point Beach, Moreton Island",Surfing,Michael Docherty,M,28,FATAL,Y,14h30,Oct,whiteshark,False
+2538,1992.0,Unprovoked,AUSTRALIA,South Australia,"Lipson Cove, Tumby Bay",Surfing,Jason Bates,M,17,"Minor cuts, sufboard bitten",N,17h50,Aug,whiteshark,False
+2557,1992.0,Unprovoked,USA,Hawaii,"Cannons, at Ha'ena on the north shore of Kaua'i Island","Surfing, paddling seawards",Jude Chamberlin,F,36,"Foot bitten, crescent of bitemarks in both sides of board",N,>06h45,Mar,tigershark,False
+2619,1990.0,Unprovoked,USA,Florida,"North end of County Beach, Palm Beach County",Surfing,Carl Demers,M,25,Wrist bitten,N,16h00,Oct,spinnershark,False
+2623,1990.0,Unprovoked,USA,California,"Russian Gulch, Jenner, Sonoma County","Free diving / spearfishing, from paddleboard & floating on the surface",Rodney Orr,M,49,"Shark rammed & overturned paddleboard, knocking him into water & bit his head, lacerating his face & neck",N,13h00,Sep,whiteshark,False
+2638,1990.0,Unprovoked,AUSTRALIA,Queensland,Greenmount Beach,Surfing,Mark Fleming,M,31,"Lacerations & abrasions, board bitten in half",N,05h40,Apr,tigershark,False
+2650,1989.0,Unprovoked,AUSTRALIA,Northern Territory,Gove Peninsula near Darwin,,Ryan Johnson,M,17,"No details, ""recovering in Darwin Hospital""",UNKNOWN,,Dec,tigershark,False
+2652,1989.0,Unprovoked,AUSTRALIA,Victoria,Kilcunda,Surfing,Gary White,M,32,Thigh bitten,N,,Nov,whiteshark,True
+2653,1989.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Melkbosstrand,Free diving & spearfishing,Gerjo Van Niekerk,M,29,FATAL,Y,12h05,Nov,whiteshark,True
+2661,1989.0,Unprovoked,AUSTRALIA,Victoria,"Surfers Point, Phillip Island",Surfing,John Benson,M,,No details,UNKNOWN,,Oct,whiteshark,False
+2664,1989.0,Boat,USA,California,"Off Palos Verdes Estates, Los Angeles",Observing a shark feeding on a carcass of a humpback whale,11.6 m fibreglass boat. Occupants: Tony DeCriston & Dan Fink,,,No injury to occupants. Shark bit boat's swim step & repeatedly pushed the boat away whenever if came within 4 to 5 m of the whale carcass,N,,Sep,whiteshark,False
+2673,1989.0,Provoked,AUSTRALIA,Queensland,Moreton Bay,Fishing for sharks,Vic Hislop,M,41,Laceration to arm  PROVOKED INCIDENT,N,,Aug,whiteshark,False
+2686,1989.0,Unprovoked,USA,Washington,"Pacific Beach, Grays Harbor County",Surfing (lying prone on his board),Robert Harms,M,,Forearm bitten,N,10h45,Apr,whiteshark,False
+2687,1989.0,Boat,USA,California,"Monterey Bay, Monterey County",,10.7 m boat. Occupants: John Capella & friends,,,No injury to occupants. Shark rammed boat 4 times,N,10h35,Apr,whiteshark,False
+2691,1989.0,Boating,AUSTRALIA,Western Australia,Near Broome in Roebuck Bay,Kayaking,Kim Courtenay ,M,,"No injury, but the kayak was bitten by the shark",N,,Mar,tigershark,False
+2703,1988.0,Unprovoked,CHILE,Valpariso Province,Valpariso,Skindiving,Juan Tapia-Avalos,M,,FATAL,Y,,Dec,whiteshark,True
+2728,1988.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Sculphoek,Spearfishing,Willie van Rensberg,M,36,Left arm lacerated,N,09h45,Jun,whiteshark,False
+2737,1988.0,Unprovoked,USA,California,"North of Morro Rock, San Luis Obispo County",Surfing,Mark Rudy,M,,No Injury,N,,Apr,whiteshark,False
+2751,1988.0,Unprovoked,Fiji,Vanua Levu,,Diving,Qalo Moceyawa,M,22,Lacerations to left arm & waist,N,,Feb,tigershark,False
+2757,1988.0,Unprovoked,AUSTRALIA,New South Wales,Sydney,Surfing,Ryan Kwanten,M,12,Hand bitten,N,,NaN,wobbegongshark,False
+2765,1987.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Seal Island, False Bay",Spearfishing,Dawid Smit,M,21,Left thigh & calf lacerated,N,12h15,Oct,whiteshark,False
+2767,1987.0,Unprovoked,AUSTRALIA,South Australia,"Merino Rocks, Adelaide",Scuba Diving for scallops,Terrance Gibson,M,47,FATAL,Y,,Sep,whiteshark,False
+2770,1987.0,Unprovoked,USA,California,"Tunitas Beach, San Mateo County",Surfing (sitting on his board),Craig Rogers,M,40,Fingers & surfboard injured,N,07h30,Aug,whiteshark,False
+2786,1987.0,Provoked,SOUTH AFRICA,Western Cape Province,Muizenberg,,"3 m skiboat Talisman, occupants Dennis Langenhoven, Philip Schoeman, Ross Lindsay, Steven Riley & Peter Schuets",,,"No injury to occupants, boat holed by hooked shark PROVOKED INCIDENT",N,,Mar,whiteshark,False
+2787,1987.0,Unprovoked,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Windsurfing,Gary Landwirth,M,,"Lacerations to toe, heel & ankle of right foot",N,,Feb,spinnershark,False
+2792,1987.0,Boat,ITALY,Tyrrhenian Sea,"Marciana Marina, Isola d'Elba",Boat,Aniello Mattera and Giorgio Allori,M,,No injury,N,,NaN,whiteshark,False
+2799,1986.0,Unprovoked,NEW CALEDONIA,,I'le Ouen,Spearfishing,Maurice Lilloux,,,Right leg bitten,N,,Dec,tigershark,False
+2807,1986.0,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,Ron Dubois,M,28,Laceration to right arm,N,,Oct,bullshark,False
+2813,1986.0,Unprovoked,AUSTRALIA,New South Wales,"North Head, Sydney Harbour",Scuba diving,Margaret Bowen Jones,F,,Survived,N,,Aug,wobbegongshark,False
+2818,1986.0,Unprovoked,AUSTRALIA,New South Wales,"North Head, Sydney Harbour",Scuba diving,Daniel Neumann,M,,Survived,N,,May,wobbegongshark,False
+2822,1986.0,Unprovoked,SPAIN,Cádiz,Tarifa ,Windsurfing,J. L Pérez-Díaz,M,,Foot severed,N,10h55,Mar,whiteshark,False
+2830,1986.0,Unprovoked,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,Christopher Blissel,M,22,Puncture wounds to both feet,N,08h35,Jan,blacktipshark,True
+2835,1985.0,Boat,USA,California,"Southeast Farallon Island, Farallon Islands",Boat,3 m inflatable boat tied to buoy (no occupants),,,2 semi-circular bites on aft starboard tube of boat,N,,Nov,whiteshark,True
+2865,1985.0,Unprovoked,NEW CALEDONIA,South Province,Amedee Island,Spearfishing,Jean Rene Mathelon,,,Legs bitten ,N,,Jan,tigershark,False
+2868,1985.0,Unprovoked,IRAN,,"Ramin, near Ahvaz",Fishing,male,M,,FATAL,Y,,NaN,bullshark,False
+2869,1984.0,Boat,ITALY,Tyrrhenian Sea,"Marciana Marina, Isola d'Elba",Boat,,,,No injury,N,,Dec,whiteshark,True
+2870,1984.0,Unprovoked,AUSTRALIA,Queensland,1 km off Black's Beach,Sailing on catamaran & fell into the water,Nicholas Bos,M,16,FATAL,Y,12h33,Nov,tigershark,False
+2884,1984.0,Unprovoked,USA,California,"Pigeon Point, San Mateo County",Skindiving,Omar Conger,M,28,FATAL,Y,08h30,Sep,whiteshark,False
+2885,1984.0,Provoked,MEXICO,Baja California,Guadalupe Island,Spearfishing,Harry Ingram,M,,"No Injury, PROVOKED INCIDENT",N,17h50,Sep,whiteshark,False
+2911,1983.0,Unprovoked,AUSTRALIA,South Australia,"Dangerous Reef, South Neptune Island",Scuba diving for abalone,Neil Williams,M,48,Fingers bitten,N,,Dec,whiteshark,True
+2916,1983.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Michael Burns,M,15,Laceration to left foot,N,,Nov,tigershark,False
+2921,1983.0,Unprovoked,USA,Oregon,"Cape Kiwanda,Tillamook County",Surfing,Randy Weldon,M,,"No injury, board bitten",N,10h00,Aug,whiteshark,False
+2925,1983.0,Unprovoked,USA,Florida,"6 miles south of Boca Chica Key, Monroe County ",Diving,Jackie Lynn,F,22,Right leg severely bitten,N,Morning,Aug,bullshark,False
+2937,1983.0,Unprovoked,BAHAMAS,,Carter Cay,,Roger Yost,M,30,Lacerations to hand & foot,N,11h00,Jun,blacktipshark,False
+2955,1983.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Holbaai,Spearfishing,Philip DeBruyn,M,32,"No injury, rammed by shark",N,13h00,Jan,whiteshark,True
+2964,1982.0,Unprovoked,USA,California,"Monastery Beach, Carmel Bay, Monterey County",Diving,Bruce Lang,M,36,Lacerations to hand,N,Morning,Sep,whiteshark,False
+2997,1982.0,Boat,ITALY,Tyrrhenian Sea,"Biodola, Isola d'Elba",Fishing on a boat,Giuseppe Campodonico,M,,No injury,N,,NaN,whiteshark,False
+3027,1981.0,Unprovoked,SOUTH KOREA,Chungnam,Wae-yeon Island,Shell diving,Pak Kyong-sun ,F,27,FATAL,Y,12h30,May,whiteshark,False
+3037,1981.0,Unprovoked,CHILE,Coquimbo,"Bahia Totoralillo, 80  km north of Coquimbo",Free diving Spearfishing,Carlos Veraga M.,M,,Foot & ankle bitten,N,10h30,Mar,whiteshark,False
+3038,1981.0,Unprovoked,BRAZIL,Rio de Janeiro,Cabo Frio,Diving,,,,,UNKNOWN,,Mar,whiteshark,False
+3044,1981.0,Unprovoked,USA,Florida,20 miles from Mayport,Commercial spearfishing,Carey Ford,M,25,3 small punctures in scalp & ripped nostril,N,,Jan,tigershark,False
+3046,1981.0,Unprovoked,AUSTRALIA,New South Wales,Byron Bay,Surf-skiing,Warren Rowe,M,27,"No injury, ski bitten",N,07h00,NaN,tigershark,False
+3068,1980.0,Unprovoked,MEXICO,Sinaloa,Mazatlán,Body surfing,Kim Giambalvo,F,13,Right calf bitten,N,Early afternoon,Apr,tigershark,False
+3069,1980.0,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Umdhloti,Free diving,Ray Booth,M,52,FATAL,Y,,Mar,tigershark,False
+3078,1980.0,Unprovoked,CHILE,Los Vilos,"Punta Negra, Pichidangui",Hookah Diving,Jose Larenas-Miranda,M,,FATAL  ,Y,11h00,Jan,whiteshark,True
+3087,1979.0,Provoked,SOUTH AFRICA,Western Cape Province,Macassar,Shark fishing,"skiboat, occupants: Gustav Boettger, Clive Mason, Keith Murrison & Sweis Olivier",,,"No injury to occupants; hooked shark tore out part of transom, bit skeg of motor and snapped the steel trace PROVOKED INCIDENT",N,,Nov,whiteshark,True
+3128,1978.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Miller's Point, False Bay",Diving,Nicky Alberts,M,,"No injury, rammed by shark",N,,Feb,whiteshark,False
+3139,1977.0,Unprovoked,AUSTRALIA,South Australia,"Cactus Beach, near Ceduna",Surfing,Philip Horley,M,17,"Board rammed &  bitten, left thigh lacerated",N,16h00,Aug,whiteshark,False
+3141,1977.0,Boat,SOUTH AFRICA,Western Cape Province,Off Macassar Beach,Fishing,"6 m skiboat, occupants: Alex Mamacos, Noel Glintenkamp, Tony Mountifield & Dillon Alexandra",M,,"Shark leapt into boat, pinning Mamacos beneath and fracturing his pelvis, then trashed the boat rendering it inoperable",N,13h30,Aug,whiteshark,False
+3145,1977.0,Provoked,USA,Florida,"12 miles northeast of Mayport,  Duval County",Spearfishing / Scuba diving,Willie White,M,27,"PROVOKED INCIDENT    Diver poked shark with spear, then shark bit his right foot",N,Late afternoon,Jun,bullshark,True
+3146,1977.0,Unprovoked,USA,Texas,Padre Island,Collecting fish from net,"Dan Baen, Jr.",M,25,Lacerations to wrist,N,,Jun,bullshark,True
+3165,1976.0,Provoked,SOUTH AFRICA,Western Cape Province,Macassar,Fishing for white shark,"boat, occupant: Danie Schoeman",,,"No injury to occupants. Hooked shark bit boat's transom, PROVOKED INCIDENT",N,,Nov,whiteshark,True
+3166,1976.0,Boat,SOUTH AFRICA,Western Cape Province,Gordon’s Bay,Boat,"7 m skiboat Alrehmah III, occupants: Adolph Schlechter & 3 friends",,,"No injury to occupants, shark leapt on bow of boat",N,,Oct,whiteshark,False
+3174,1976.0,Unprovoked,USA,Florida,"Sebastian, Indian River County",Surfing,Peter Ferrer,M,15,Laceration to left lower leg,N,14h00,Sep,tigershark,True
+3176,1976.0,Unprovoked,USA,Oregon,Winchester Bay,Surfing,Mike Shook,M,19,"No injury, board bitten",N,14h00,Aug,whiteshark,False
+3199,1975.0,Unprovoked,USA,California,Farallon Islands,Scuba diving & spearfishing,Robin Buckley (male),M,27,Leg bitten,N,12h00,Dec,whiteshark,True
+3211,1975.0,Unprovoked,USA,California,"Usal Creek, Bear Harbor, Mendocino County",Free diving for abalone,Gilbert Brown,M,44,"Shoulder, arm & hand lacerated",N,13h30,Aug,whiteshark,False
+3214,1975.0,Unprovoked,AUSTRALIA,Tasmania,"Fluted Cape, Bruny Island",Scuba diving for abalone,Robert Slack,M,37,FATAL,Y,Afternoon,Jul,whiteshark,False
+3218,1975.0,Unprovoked,USA,California,"Point Conception, Santa Barbara County",Hookah diving for abalone,Gary Johnson,M,34,"No injury, swim fin torn",N,13h30,Jul,whiteshark,False
+3250,1974.0,Unprovoked,USA,California,"North Farallon Island, Farallon Islands",Hookah diving for abalone,Jon Holcomb,M,29,Major injuries,N,13h45,Sep,whiteshark,False
+3255,1974.0,Unprovoked,USA,Oregon,Myers Creek,Surfing,Curt Brown,M,24,No injury,N,Morning,Sep,whiteshark,False
+3261,1974.0,Unprovoked,USA,California,"San Gregorio Beach, San Mateo County",Surfing,Robert Sanders,M,,Minor injuries to hand,N,,Aug,whiteshark,False
+3273,1974.0,Boat,SOUTH AFRICA,Western Cape Province,Macassar,Fishing for kob,"skiboat, occupant: Danie Schoeman",,,"No injury to occupant, shark holed boat",N,,Mar,whiteshark,False
+3276,1974.0,Boat,SOUTH AFRICA,Western Cape Province,Macassar,Fishing for red fish,"skiboat, occupant: Danie Schoeman",,,"No injury to occupant, but  a shark chasing a hooked fish holed his boat above the waterline",N,,Feb,whiteshark,False
+3277,1974.0,Boat,SOUTH AFRICA,Western Cape Province,Macassar,Fishing for kob,"skiboat, occupants: Danie & Fanie Schoeman",,,"No injury,  shark leapt into boat & bit one of the boat's seats",N,Night,NaN,whiteshark,False
+3279,1974.0,Unprovoked,AUSTRALIA,South Australia,Streaky Bay,Diving for abalone,Terry Manuel,M,26,"FATAL, right leg severed  ",Y,,Jan,whiteshark,True
+3294,1973.0,Unprovoked,BAHAMAS,Grand Bahama Island,"Memory Rock, 18 miles from NW end of the Island","Free diving, Spearfishing",Kevin G. Schlusemeyer,M,11,Left hand & forearm lacerated,N,14h30,Sep,bullshark,False
+3296,1973.0,Unprovoked,MEXICO,Baja California,Guadalupe Island,"Free diving, Spearfishing",Al Schneppershoff,M,37,"FATAL, leg bitten ",Y,16h45,Sep,whiteshark,False
+3297,1973.0,Unprovoked,EGYPT,Red Sea,Southern end of the Sinai Peninsula,,Soldier,M,,Massive wound on right thigh with femur exposed,N,,Sep,tigershark,True
+3309,1973.0,Unprovoked,PALAU,Aulong Island,Aulong Channel,Scuba diving (submerged),Mitchell Warner,M,,"No injury, shark grabbed scuba tank and descended to 110' before releasing him ",N,,NaN,tigershark,False
+3328,1972.0,Unprovoked,AUSTRALIA,Tasmania,Tasman Island,Diving for abalone,Gordon Johnson,M,45,Left foot bitten,N,,Aug,whiteshark,False
+3345,1972.0,Unprovoked,FRANCE,Antibes,,Swimming,,,,Shoulder injured,N,,NaN,whiteshark,False
+3356,1971.0,Unprovoked,CROATIA,Istria County,Ika,Swimming,Stanislav Klepa,M,34,FATAL,Y,10h30,Sep,whiteshark,False
+3371,1971.0,Unprovoked,AUSTRALIA,South Australia,Southport,Surfing,Tim Franklin,M,15,Severe lacerations to thigh,N,,NaN,whiteshark,False
+3395,1970.0,Provoked,,,,Freediving,Lionel Jarvis,M,,Arm abraded & lacerated. Recorded as PROVOKED INCIDENT,N,,Apr,wobbegongshark,False
+3396,1970.0,Unprovoked,SOLOMON ISLANDS,,,Swimming,David Vota,M,,No details,UNKNOWN,,Apr,wobbegongshark,False
+3410,1970.0,Boat,ITALY,Sardinia,Golfo di Oristano,Fishing on a boat,male,M,,No injury,N,,NaN,whiteshark,False
+3411,1970.0,Unprovoked,CROATIA,Zadar County,Novigrad,Spearfishing,Mr. Jurincic,M,,No details,UNKNOWN,,NaN,whiteshark,False
+3447,1968.0,Unprovoked,NEW ZEALAND,South Island,"St. Clair Beach, Dunedin",Surfing,Gary Barton,M,17,"Hit in face by shark, arm abraded, surfboard bitten",N,17h45,Dec,whiteshark,True
+3448,1968.0,Unprovoked,AUSTRALIA,South Australia,Thistle Island,,Dick O’Brien,M,,Survived,N,,Dec,whiteshark,True
+3514,1967.0,Unprovoked,AUSTRALIA,Western Australia,Jurien Bay,"Spearfishing, dived to pick up a float line",Robert Bartle,M,23,"FATAL, ""bitten in two""",Y,11h00,Aug,whiteshark,False
+3561,1966.0,Unprovoked,CROATIA,Primorje-Gorski Kotar County ,Bakar,Swimming,Josef Treliac,M,33,FATAL,Y,,Aug,whiteshark,False
+3590,1966.0,Unprovoked,AUSTRALIA,New South Wales,Bellambi,Spearfishing,Cornelius Meyer,M,30,Buttocks bitten,N,,Jan,wobbegongshark,True
+3628,1965.0,Unprovoked,USA,Florida,"Hobe Sound, Martin County",,Morris M. Vorenberg,M,49,"Thighs abraded, puncture wounds in dorsal surface of left hand",N,15h00,Apr,bullshark,False
+3630,1965.0,Unprovoked,USA,Florida,American Shoals off Key West,Spearfishing,Dr. J. D. Morgan,M,28,Left hand severely lacerated,N,11h00,Apr,whiteshark,False
+3675,1964.0,Provoked,USA,Florida,"Palm Beach, Palm Beach County",Tagging sharks,18' boat of Morris Vorenberg,M,,"No injury to occupant, hooked shark rammed & bit boat PROVOKED INCIDENT",N,,Jul,whiteshark,False
+3685,1964.0,Unprovoked,FIJI,Vita Levu,Naviti,Spearfishing,Sailasa Ratubalavu,M,35,"FATAL, buttocks, lower abdomen & genitalia removed  ",Y,11h30,May,tigershark,False
+3710,1964.0,Unprovoked,PAPUA NEW GUINEA,New Britain,,Fishing,male,M,,FATAL,Y,,Jan,tigershark,False
+3721,1963.0,Provoked,AUSTRALIA,New South Wales,"Woolgoolga, Coffs Harbour",Fishing,Leslie Cook,M,,7 puncture wounds in right forearm from hooked shark PROVOKED INCIDENT,N,,Dec,wobbegongshark,False
+3724,1963.0,Unprovoked,AUSTRALIA,South Australia,55 miles south of Adelaide,Spearfishing,Rodney Fox,M,23,Torso & hand lacerated,N,12h45,Dec,whiteshark,True
+3725,1963.0,Unprovoked,NEW BRITAIN,"South Coast, East New Britain",Pomio,Spearfishing,Patape,M,22,"FATAL, leg severely bitten",Y,,Dec,tigershark,False
+3727,1963.0,Provoked,PAPUA NEW GUINEA,Gulf Province,"Kukipi, 150 miles west of Port Moresby in the Lakekamu River area",Fishing / standing in waist deep water,"Siara Ikui, female",F,18,Left arm lacerated  PROVOKED INCIDENT,N,14h00,Nov,tigershark,False
+3731,1963.0,Provoked,AUSTRALIA,Queensland,Mermaid Beach,Catching sharks under government contract,"boat Nora, occupant Bruce Harris",M,,"No injury to occupant, netted shark rammed & bit boat PROVOKED INCIDENT",N,,Nov,whiteshark,True
+3743,1963.0,Unprovoked,FEDERATED STATES OF MICRONESIA,Eastern Caroline Islands,"Koop Reef, Truk (Chuuk)",Spearfishing,Akira,M,26,Upper left arm bitten,N,08h00,Jul,tigershark,False
+3748,1963.0,Unprovoked,GREECE,Thessaly,near Trikerion Island,Swimming,Helga Pogl,F,42,FATAL,Y,16h30,Jun,whiteshark,False
+3793,1962.0,Unprovoked,ITALY,Tyrrhenian Sea,"Circeo, Secca del Quadro",Spearfishing with Scuba gear,Maurizio Sarra,M,28,"FATAL, multiple injuries to both legs  ",Y,10h20,Sep,whiteshark,False
+3803,1962.0,Unprovoked,ITALY,Tyrrhenian Sea,"Circeo, Secca del Faro",Diving,Dante Matacchione,M,,No injury,N,,Aug,whiteshark,False
+3836,1962.0,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Winkelspruit,Treading water,Reece Nielsen,M,13,"FATAL, tissue removed from thigh, femoral artery severed ",Y,16h20,Feb,whiteshark,False
+3850,1962.0,Unprovoked,PAPUA NEW GUINEA,"10ºS, 142ºE",Jukuataia Village,Spearfishing,Yagirua Agiramon,M,24,Left leg & buttocks bitten,N,12h00,Jan,whiteshark,True
+3852,1962.0,Boat,AUSTRALIA,South Australia,Ceduna,Fishing for sharks,25-foot cutter,,,No injury to fisherman Alf Dean & other occupants; shark bit stern of boat,N,,Jan,whiteshark,True
+3876,1961.0,Unprovoked,CROATIA,Primorje-Gorski Kotar County ,"Opatija, northwestern coast of Rijeka Bay",Swimming,Sabit Plana,M,19,"FATAL, hand severed & legs bitten  ",Y,Early afternoon,Sep,whiteshark,False
+3883,1961.0,Unprovoked,USA,South Carolina,"Pawley’s Island, Georgetown County",Wading,William Lee Bailey,M,19,"Right arm bitten. Left leg bitten, surgically amputated ",N,08h00,Aug,whiteshark,False
+3890,1961.0,Unprovoked,ITALY,Adriatic Sea,Riccione,Spearfishing,Manfred Gregor,M,21,Foot bitten,N,14h00,Jul,whiteshark,False
+3897,1961.0,Unprovoked,USA,California,"Tomales Point, Marin County",Free diving for abalone,Rodney Orr,M,20,"No injury, wetsuit bitten",N,08h00 / 09h30,May,whiteshark,False
+3927,1961.0,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Amanzimtoti,Swimming,Michael Murphy,M,15,Left thigh bitten ,N,14h20,Jan,whiteshark,True
+3945,1960.0,Unprovoked,AUSTRALIA,Queensland,"Colledge's Crossing, Brisbane River",Fishing,male,M,,Bitten & survived,N,,Dec,bullshark,False
+3983,1960.0,Provoked,NEW ZEALAND,Cook Strait,Tory Channel,Shark fishing,boat (a whale chaser),,,Harpooned shark bit boat PROVOKED INCIDENT,N,,Jun,whiteshark,False
+4003,1960.0,Provoked,AUSTRALIA,South Australia,Hog Bay,Shark fishing,"launch, occupant Clive Whitrow, Dick Kuhne & Jim Pergola",,,Hooked shark bit stern  PROVOKED INCIDENT,N,,Apr,whiteshark,False
+4014,1960.0,Provoked,AUSTRALIA,New South Wales,Near Bondi Beach,Shark fishing,"12' open motor boat, occupants Jack Platt & Peter Keyes",,,No injury to occupants. Hooked shark rammed boat  PROVOKED INCIDENT,N,,Feb,tigershark,False
+4020,1960.0,Unprovoked,AUSTRALIA,New South Wales,"Just below Roseville Bridge, opposite Killarney picnic reserve, Middle Harbor, Sydney",Free diving,Kenneth William Murray,M,13,"FATAL, right leg severed above knee, surgically amputated but died 9 days later ",Y,15h30,Jan,bullshark,False
+4021,1960.0,Provoked,AUSTRALIA,Western Australia,Geraldton,"Fishing, lifting shark out of craypot",Ron Christmas,M,,Upper leg bitten PROVOKED INCIDENT,N,P.M.,Jan,wobbegongshark,True
+4127,1958.0,Boat,TURKEY,Ahirkapi coast,Constantinople,Fishing,Fishing boat. Occupants: Yunus Potur & Ali Durmaz,,,Boat damaged,,,Dec,whiteshark,True
+4131,1958.0,Unprovoked,AMERICAN SAMOA,Tutuila Island,Van Camp wharf,Cleaning hull of ship ,Sailor of tuna vessel No.12 Taiyo Marei,M,22,"FATAL, left thigh & hip bitten  ",Y,11h00,Dec,tigershark,False
+4135,1958.0,Boat,USA,California,"Pacific Beach, San Diego County",Fishing,"4.3 m skiff, occupant: Bob Shay",,,"No injury to occupant, shark chasing barracuda tied to the stern rammed skiff & slashed the motor",N,,Nov,whiteshark,True
+4171,1958.0,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Scotburgh,Swimming,Derek Garth Prinsloo,M,,FATAL,Y,07h30,Jan,whiteshark,True
+4179,1958.0,Boat,SOUTH AFRICA,Western Cape Province,Plettenberg Bay,Fishing (trolling),ski-boat,,,No injury to occupants; shark bit propeller,N,,NaN,whiteshark,False
+4194,1957.0,Unprovoked,USA,North Carolina,"Salter Path, Atlantic Beach, Carteret County",Swimming,Rupert Wade,M,57,"FATAL, knee bitten  ",Y,15h15,Jul,whiteshark,False
+4200,1957.0,Unprovoked,USA,California,"Atascadero Beach, Morro Bay, San Luis Obispo County",Swimming,Peter Savino,M,25,"FATAL, seen with arm in mouth of shark. Body not recovered.  ",Y,13h30,Apr,whiteshark,False
+4216,1957.0,Unprovoked,USA,Florida,"Miami, Miami-Dade County",Helmet diving in Miami Seaquarium,Jim Kline,M,,"Shark struck helmet, no injury",N,,NaN,bullshark,False
+4218,1957.0,Unprovoked,IRAN,Karun River,"near Band Misan in Shustar, 420 km from the sea",,Mr. Paniry,M,,Survived,N,,NaN,bullshark,False
+4220,1957.0,Unprovoked,IRAN,Karun River,Hesamabad,,Mr. Falah,M,,Survived,N,,NaN,bullshark,False
+4232,1956.0,Unprovoked,MAYOTTE,Mozambique Channel,,Fishing,2 males,M,,FATAL,Y,,Sep,tigershark,True
+4237,1956.0,Provoked,AUSTRALIA,Queensland,Near Southport,Diving,Lyle Davis,M,,Laceration to arm when his dive buddy grabbed the shark PROVOKED INCIDENT,N,,Aug,wobbegongshark,False
+4247,1956.0,Unprovoked,MALTA,St. Thomas Bay,Marsascala,Swimming,Jack Smedley,M,40,FATAL,Y,,Jul,whiteshark,False
+4253,1956.0,Boating,SOUTH AFRICA,Western Cape Province,Plettenberg Bay,Fishing,multiple boats including B.J. C. Brunt,,,"No injury, sharks bit propellers, etc",N,,May,whiteshark,False
+4267,1956.0,Unprovoked,GREECE,Corfu Island,Kérkira,Swimming off yacht,Margoulis,F,15,FATAL,Y,,NaN,whiteshark,False
+4275,1955.0,Unprovoked,PAPUA NEW GUINEA,Central Province,"Kalautu Village, Baibara at the mouth of Oibada River",Swimming,Niu Bodu,M,8,Right thigh bitten,N,18h00,Nov,wobbegongshark,True
+4285,1955.0,Unprovoked,CROATIA, Primorje-Gorski Kotar County,Opatija,Swimming,Carla Podzum,F,32,FATAL,Y,,Aug,whiteshark,False
+4292,1955.0,Unprovoked,MONTENEGRO,Adriatic Sea,Budva,Swimming,Romasevic,M,,FATAL,Y,,Jul,whiteshark,False
+4385,1953.0,Unprovoked,PAPUA NEW GUINEA,Milne Bay Province,"Off Rossel Island, Louisiade Archipelago",Went over side of boat at trochus ground,Captain of cutter Hetabu,M,,"FATAL, arm & leg severed & shark smashed at his body with its tail  ",Y,,Mar,tigershark,False
+4387,1953.0,Unprovoked,AUSTRALIA,New South Wales,Cave at Shell Harbour,Spearfishing,Rex Gallagher,M,25,"Shark tore off face mask, diver’s face, nose & chin lacerated",N,18h00,Feb,wobbegongshark,True
+4388,1953.0,Unprovoked,AUSTRALIA,,,Spearfishing,Ron Ware,M,,Foot bitten,N,,Feb,wobbegongshark,True
+4391,1953.0,Unprovoked,AUSTRALIA,,,Spearfishing,Alan Agnew,M,,Kneecap bitten,N,,NaN,wobbegongshark,False
+4436,1951.0,Unprovoked,GREECE,Corfu Island,Off Royal Residence,Swimming,George Athanasenas,M,18,Injured but survived,N,,Aug,whiteshark,False
+4437,1951.0,Unprovoked,GREECE,Corfu Island,Off Royal Residence,Swimming,Vanda Pierri,F,16,"FATAL, body not recovered Another man was also injured by the shark at same time (see below)",Y,,Aug,whiteshark,False
+4446,1951.0,Provoked,AUSTRALIA,New South Wales,Avalon,Fell off surf ski,Ken Davidson,M,23,Minor laceration to chest when he grabbed the shark by its tail PROVOKED INCIDENT,N,Afternoon,Mar,wobbegongshark,False
+4456,1950.0,Unprovoked,AUSTRALIA,New South Wales,Jervis Bay,Swimming,2 swimmers,,,Legs nipped,N,,Dec,wobbegongshark,False
+4461,1950.0,Unprovoked,USA,California,"Imperial Beach, San Diego County",Body surfing / treading water,Robert B. Campbell,M,31,Right leg lacerated,N,12h00,Oct,whiteshark,False
+4465,1950.0,Boating,AUSTRALIA,South Australia,Streaky Bay,Fishing,40' fishing cutter,,,No injury to occupants,N,,Jul,whiteshark,False
+4522,1949.0,Boating,ITALY,Tyrrhenian Sea,San Vincenzo,"Fishing, on a boat",male,M,,No injury to occupant,N,,NaN,whiteshark,False
+4561,1947.0,Unprovoked,SENEGAL,,"Tiaroye, near Dakar, Cap Vert Peninsula",Fishing / diving,male,M,,"FATAL, right thigh bitten ",Y,11h00,Dec,tigershark,False
+4576,1947.0,Boating,AUSTRALIA,New South Wales,Coogee,Fishing,12-foot dinghy Occupants: R. Hunt & a friend.,,,"No injury to occupants, shark bumped & lifted dinghy",N,,Jun,tigershark,False
+4630,1945.0,Unprovoked,IRAQ,Basrah,Shatt-al Arab River,Swimming,male,M,15,Left foot bitten,N,12h00,NaN,bullshark,False
+4690,1942.0,Unprovoked,AUSTRALIA,New South Wales,"Bantry Bay, near Ironstone Point, Middle Harbor, Sydney",Dog paddling or standing,Denise Rosemary Burch,F,15,"FATAL, legs bitten ",Y,10h50,Dec,bullshark,False
+4733,1941.0,Sea Disaster,SOUTH ATLANTIC OCEAN,Off Libya,,HMAS Parramatta torpedoed & sunk by the U-559,Bill Nash,M,23,Right hand severed,N,,Nov,tigershark,False
+4734,1941.0,Sea Disaster,SOUTH ATLANTIC OCEAN,Off Libya,,HMAS Parramatta torpedoed & sunk by the U-559,Gordon Annison,M,,Lacerations to chest,N,,Nov,tigershark,False
+4767,1940.0,Unprovoked,AUSTRALIA,New South Wales,Gerringong,Free diving for lobster,Smiles Walker,M,,Minor injuries to foot,N,,Mar,wobbegongshark,False
+4776,1940.0,Boating,SLOVENIA,Adriatic Sea,Koper,Boating,,,,"No inury to occupants, shark struck boat",N,,NaN,whiteshark,False
+4791,1939.0,Unprovoked,AUSTRALIA,Torres Strait ,Near Mabuiag Island,Pearl diving,Sammy Mira,M,,"Leg severely bitten, surgically amputated",N,,Sep,tigershark,True
+4803,1939.0,Boating,BAHAMAS,Andros Islands,Middle Bight,Fishing,"12' skiff, occupant: E.R.F. Johnson",,,"No injury to occupant, shark rammed bow of boat",N,,NaN,tigershark,False
+4805,1939.0,Unprovoked,CURACAO,Ascension Bay,,Diving,Hans Hass,M,,"No injury, left hip bumped by shark",N,,NaN,tigershark,False
+4808,1938.0,Provoked,AUSTRALIA,Queensland,Between Wynnum & St. Helena Island,Fishing,Jack Lopez,M,18,Laceration to left foot & ankle by netted shark PROVOKED INCIDENT,N,Afternoon,Oct,tigershark,True
+4818,1938.0,Unprovoked,IRAQ,Basrah City,"Ashar Canal, where people wash clothes & kitchen pans","Swimming, naked",male,M,9 or 10,"Arm severed, but survived. Note: Some weeks later he was swimming at the same spot when a shark severed his right foot.",N,Afternoon,May,bullshark,True
+4822,1938.0,Provoked,AUSTRALIA,New South Wales,Tweed Heads,Fishing,Robert Corowa,M,,Thumb bitten by landed shark PROVOKED INCIDENT,N,,Jan,tigershark,False
+4834,1937.0,Unprovoked,AUSTRALIA,Queensland ,"Kirra Beach, Coolangatta",Swimming ,Jack Brinkley,M,25,FATAL,Y,17h30,Oct,tigershark,True
+4842,1937.0,Unprovoked,AUSTRALIA,Torres Strait,"Mabuiag Island, between New Guinea & Australia","Diving from the lugger San, operated by the Protector of the Aborigines",Iona Asai,M,38,"Head, neck & shoulder bitten (In 1918, he was also bitten by a shark off Cairns)",N,11h00,Aug,tigershark,True
+4854,1937.0,Unprovoked,AUSTRALIA,New South Wales,"Bar Beach, Newcastle",Swimming,John Welsh,M,32,"FATAL, buttocks, ankle & right elbow bitten ",Y,15h20,Feb,whiteshark,False
+4888,1936.0,Unprovoked,AUSTRALIA,New South Wales,"South Steyne, Manly",Swimming,David Paton,M,14,"FATAL, taken by shark, body not recovered. Twenty months later, in October 1937, meshing (setting anti-shark gill nets) began  at metropolitan beaches",Y,15h00,Feb,whiteshark,False
+4889,1936.0,Unprovoked,AUSTRALIA,South Australia,"West Beach, near Adelaide","Swimming. Passer-by, Len Bedford, heard him shriek , saw shark leap from the water & swimmer disappeared",Ray Bennett,M,13,FATAL ,Y,18h00,Jan,whiteshark,True
+4921,1935.0,Unprovoked,AUSTRALIA,New South Wales,"Off Ben Buckler, near Sydney",Fishing,William Johnson,M,,"No injury, sleeve ripped",N,,Jan,tigershark,False
+4936,1934.0,Unprovoked,CROATIA,Adriatic Sea,"Susak (Rijeka, Istria)",Swimming,Agnes Novak,F,18,FATAL,Y,,Aug,whiteshark,False
+4953,1933.0,Unprovoked,AUSTRALIA,Queensland,Near Barrow Point,Pearl diving,"Alfred Aniba, a Torres Strait Islander",M,17,"Hand badly injured, right arm surgically amputated above wrist",N,,Nov,tigershark,False
+4959,1933.0,Unprovoked,USA,California,"San Diego, San Diego County",,Tom Schaliniski,M,50,Survived,N,,Jul,tigershark,False
+5041,1930.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Swimming,William Harns,M,21,Arm lacerated from shoulder to wrist,N,,Jul,tigershark,False
+5056,1929.0,Unprovoked,AUSTRALIA,New South Wales,"White Bay, near Bald Rock Jetty, Sydney Harbor ",Diving by wharf,William Oakley,M,16,"FATAL, left arm severed above elbow, lacerations on chest, right thumb severed, left thigh lacerated to bone, abrasions  ",Y,,Dec,tigershark,False
+5105,1928.0,Unprovoked,AUSTRALIA,Queensland,"Barrow Point, 100 miles north of Cooktown, Queensland",Fishing,a Murray Islander,M,,Severe lacerations to arm,N,,Apr,tigershark,False
+5231,1922.0,Unprovoked,AUSTRALIA,New South Wales,Coogee ,Swimming,Milton Coughlan,M,18,"FATAL, both arms & shoulder bitten",Y,15h30,Feb,whiteshark,False
+5362,1913.0,Unprovoked,AUSTRALIA,Torres Strait,Thursday Island,Diving,"Treacle, a Torres Strait islander",M,,"Head, neck & left shoulder bitten",N,,Jan,tigershark,False
+5379,1912.0,Unprovoked,SPAIN,Balearics,Isla Cabrera,Fell into the water,the governor of Cabrera,M,,FATAL,Y,,NaN,whiteshark,False
+5441,1907.0,Unprovoked,AUSTRALIA,New South Wales,"Middle Harbour, Sugarloaf Bay, Sydney (Estuary)",Bathing,Henry Jones,M,,FATAL,Y,,Dec,bullshark,False
+5458,1907.0,Unprovoked,MALTA,Harare Province,Marsaskala,Fishing,2 fishermen,M,,"FATAL,            Fell overboard and were killed by shark",Y,,Mar,whiteshark,False
+5489,1905.0,Invalid,EGYPT,Suez Canal,Port Said,Human head found in shark caught by British steamer Syria,,M,,Probable drowning & scavenging. ,,,Aug,tigershark,True
+5524,1903.0,Unprovoked,AUSTRALIA,New South Wales,"Lane Cove River, Sydney Harbor (Estuary)",,Sydney James,M,,FATAL,Y,,Jan,bullshark,False
+5545,1901.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Windmill Beach,Swimming,"John Hendrick Adrian Chandler, a prisoner of war",M,29,"Right leg bitten & foot severed, right arm bitten, bones fractured & nearly severed FATAL",Y,14h15,Jul,whiteshark,False
+5598,1898.0,Unprovoked,USA,South Carolina,Ramshorn Creek,Fishing (Seining),Archibald Rutledge,M,15,Lacerations to left hand,N,,NaN,whiteshark,False
+5814,1880.0,Unprovoked,AUSTRALIA,Queensland,"Petrie Bight, Brisbane River",Swimming,Alexey Drury,M,12,"Feet bitten, surgically amputated FATAL",Y,Afternoon,Nov,bullshark,False
+5836,1879.0,Unprovoked,USA,Mississippi,River mouth,Floating with life buoy after pilot launch capsized,Gus Ericsson,M,,FATAL,Y,,NaN,tigershark,False
+5887,1874.0,Boating,CANADA,Newfoundland,St. Pierre Bank ,Fishing,A dory: occupants : 2 men,M,,Shark bit & tipped the dory,N,,Apr,whiteshark,False
+5919,1869.0,Unprovoked,AUSTRALIA,South Australia,Cape Elizabeth,Net fishing,Joseph Simms,M,,Foot bitten,N,,Apr,tigershark,False
+5921,1868.0,Unprovoked,ITALY,Adriatic Sea,Trieste,,male,M,,FATAL,Y,,Sep,whiteshark,False
+6007,1853.0,Unprovoked,USA,North Carolina,"Morehead, Carteret County",Commercial Salvage Diving,Alfetto,M,,No injury. Copper breastplate & harness bitten,N,,NaN,whiteshark,False
+6011,1853.0,Unprovoked,USA,North Carolina,"Morehead, Carteret County",Hard hat diving,Mark Dare,M,,"No injury, copper breastplate punctured",N,,NaN,whiteshark,False
+6162,1700.0,Unprovoked,FRANCE,Côte d'Azur ,Antibes,Bathing,seaman,M,,Leg severed,N,,NaN,whiteshark,False
+6200,0.0,Unprovoked,USA,Florida,,Shark tagging,Danniell Washington,F,21,Severe abrasion to forearm from captive shark PROVOKED INICIDENT,N,18h00,NaN,blacktipshark,False
+6214,0.0,Unprovoked,AUSTRALIA,Torres Strait,,Helmet diving,male,M,,"No injury, helmet bitten",N,,NaN,tigershark,False
+6215,0.0,Unprovoked,BAHREIN,,,Pearl diving,male,M,,FATAL,Y,,NaN,tigershark,False
+6225,0.0,Unprovoked,IRAN,Khuzestan Province,"Ahvaz, on the Karun River",,Mr. Jabar-Kaaby,M,,Foot severed,N,,NaN,bullshark,False
+6240,0.0,Unprovoked,SEYCHELLES,Amirante Islands,Marie Louise Island,Swimming from capsized pirogue,Aristede,M,,FATAL,Y,,NaN,tigershark,False
+6242,0.0,Unprovoked,IRAQ,Basrah,Shatt-al-Arab River ,Swimming naked near a date palm where many dates fell into the water,male,M,6,Arm severed,N,Afternoon,NaN,bullshark,False
+6243,0.0,Unprovoked,IRAQ,Basrah,Shatt-al-Arab River near Abu al Khasib,Swimming in section of river used for washing clothes & cooking utensils,male,M,16,Right leg lacerated & surgically amputated,N,Afternoon,NaN,bullshark,False
+6244,0.0,Unprovoked,BAHAMAS,Andros Islands,,,"male, a sponge Diver",M,,Lower leg and forearm severed,N,,NaN,whiteshark,False
+6265,0.0,Unprovoked,IRAQ,Basrah,Shatt-el Arab River near a small boat stand,Swimming,male,M,13 or 14,"FATAL, left leg bitten with severe blood loss",Y,Afternoon,NaN,bullshark,False
+6274,0.0,Boat,ITALY,Adriatic Sea,,Wooden fishing boat,Occupant:     Mr. Maciotta,M,,No injury to occupant; shark capsized boat,N,,NaN,whiteshark,False
+6276,0.0,Unprovoked,BELIZE,,,Standing,a servant,M,16,FATAL,Y,,NaN,tigershark,False
