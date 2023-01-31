@@ -36,9 +36,46 @@ Can check my process of data cleaning in Shark_cleaning file.
 
 With the new cleaned CSV file could make the graphics and analysed it better.
 
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/1.png?raw=true)
 
+### White Shark
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/w1.png?raw=true)
+
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/w2.png?raw=true)
+
+We can see here how it affects depending of the country, in which hemisphere of the globe its the country. In here we can make a conclution that theres a lot of activity for the white shark in the southern hemisphere, but still doesnt affect the attacks if it is their mating season, we can see that they still have much activity during the hole year.
+### Tiger Shark
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/t1.png?raw=true)
+
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/t2.png?raw=true)
+
+With the Tiger shark we could see that it has activity on the north as well as the south heisphere, and their activity doesnt change by their mating season, it looks that it has activity at the same time in all the world. Conclution, it doesn´t afect their mating season, either side of the world.
+### Bull Shark
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/b1.png?raw=true)
+
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/b2.png?raw=true)
+
+Comparing this table with the one on the top, I can see that in the country USA there is a coincidence that the more attacks it has done is during their mating season, during the summer in the north hemisphere.
+### Wobbegong Shark
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/wo1.png?raw=true)
+
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/wo2.png?raw=true)
+
+It only has attack in Australia, probably its where they leave all year round, It here we can take the conclution that it attacks all year by equal, theres not more activity during their mating season.
+### Blacktip Shark
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/bl1.png?raw=true)
+
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/bl2.png?raw=true)
+
+Whith the Blacktip Shark it appears that goes the other way as my hypothesis, it attacks more when is not their mating season.
+### Spinner Shark
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/s1.png?raw=true)
+
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/s2.png?raw=true)
+
+Can see that it attacks more in the northern hemisphere, and it does not match the mating season, it attacks more when its not. In the other side of the world we notice that it does attack more but the season changes and theres only a few cases of attacks, almost lack of information so we can not make any conclution.
 ## Conclution.
 
-All the information gathered throws that theres not a conclution that sharks attack more when they are in their mating season.
+All the information gathered throws that theres NOT a conclution that sharks attack more when they are in their mating season.
 
 ![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/EuJIQWdXIAE0myN.jpg?raw=true)
