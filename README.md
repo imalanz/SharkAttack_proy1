@@ -1,5 +1,5 @@
 # SharkAttack_proy1
-![portada](.\Imagenes\maxresdefault_(1).jpg)
+![portada]!(.\Imagenes\maxresdefault_(1).jpg)
 
 # Does Sharks attack more when they are horny?
 
@@ -15,7 +15,7 @@ My hypothesis comes from examples of different types of animals, like the mammal
 Theres not much information about the reproduction of sharks, and there are some species less studied than others, and its really strange to seen them in the action, actually theres just counted photographs of them while they are copulating.
 
 I got the information I could on the internet and with the data frame about the attacks, made the analisis.
-![empezar explicacion](.\Imagenes\Sharkey-Love.jpg)
+![empezar explicacion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/Sharkey-Love.jpg?raw=true)
 ## Data cleaning.
 The information was in a CSV file, had to import it and visualize it, it was really dirty. It need it a lot of cleaning with their columns and rows.
 
