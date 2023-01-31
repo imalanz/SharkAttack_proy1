@@ -1,5 +1,5 @@
 # SharkAttack_proy1
-![portada]!(.\Imagenes\maxresdefault_(1).jpg)
+![portada](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/maxresdefault_(1).jpg?raw=true) 
 
 # Does Sharks attack more when they are horny?
 
@@ -31,7 +31,7 @@ At the end exported the data frame of the clean version CSV file.
 
 Can check my process of data cleaning in Shark_cleaning file.
 
-![conclusion](.\Imagenes\cc0bbc404c539aef74b8f1f3549869e1.png)
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/cc0bbc404c539aef74b8f1f3549869e1.png?raw=true)
 ## Data exploration.
 
 With the new cleaned CSV file could make the graphics and analysed it better.
@@ -41,4 +41,4 @@ With the new cleaned CSV file could make the graphics and analysed it better.
 
 All the information gathered throws that theres not a conclution that sharks attack more when they are in their mating season.
 
-![conclusion](.\Imagenes\EuJIQWdXIAE0myN.jpg)
+![conclusion](https://github.com/imalanz/SharkAttack_proy1/blob/main/Imagenes/EuJIQWdXIAE0myN.jpg?raw=true)
